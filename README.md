@@ -315,7 +315,7 @@ Drilling Layout :
 
 Description |  E/e  | Holes Ø  | C-D* |  
 ------------|-------|----------|------|-------------|---| 
-Schaller 47X | 51 mm bis 55.5 mm (2" to 2-3/16") | 3x 3.18mm (0.125")  | x mm |
+Schaller 47X | 51 mm to 55.5 mm (2" to 2-3/16") | 3x 3.18mm (0.125")  | x mm |
 
 
 #### Vintage Tremolo Routing
