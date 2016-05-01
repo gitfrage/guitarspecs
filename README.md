@@ -515,9 +515,9 @@ pickup switch 			    |  -   |  -  |  -  |  y  | y   | y  |
 Sound group    			| Pot  | Cap     | Examples
 ------------------------|------|---------|----
 standard hambucker  	| 500K | 0.047mF | most hambucker equiped guitars
-many hights   			| 500K | 0.022mF | some guitars (U.S. FAT Tele)
-more hights   			| 500K | 0.01mF  | some custom models
-many more hights   		| 1M   | 0.01mF  | some custom models
+bright   			    | 500K | 0.022mF | some guitars (U.S. FAT Tele)
+brighter   			    | 500K | 0.01mF  | some custom models
+brightest       		| 1M   | 0.01mF  | some custom models
 standard singele coils 	| 250K | 0.022mF | most strat & tele models  
 jazzy  					| 250K | 0.047mF | some teles (ASAT BluesBoy)
 
