@@ -260,7 +260,7 @@ P90  		          	| [image](http://www.seymourduncan.com/wp-content/uploads/2015
 Lipstick Tube  		  	| [image](http://www.seymourduncan.com/wp-content/uploads/2015/06/Lipstick-Tube-Standard.jpg) | mm (")  
 Jazzmaster              | [image](http://www.seymourduncan.com/wp-content/uploads/2015/06/SJM-12.gif) | mm (") 
 
-*Wide Humbucker ([Duncan Trembucker](http://www.seymourduncan.com/faqs/what-does-trembucker-mean-and-how-is-it-different-from-humbucker)  or [Dimarzio F-spaced Hambucker](http://www.dimarzio.com/faq#55/65/7568) ) can be used for guitars with larger sting distance with standard "Humbucker Routing"
+*Wide Humbucker ([Duncan Trembucker](http://www.seymourduncan.com/faqs/what-does-trembucker-mean-and-how-is-it-different-from-humbucker)  or [Dimarzio F-spaced Hambucker](http://www.dimarzio.com/faq#55/65/7568)) can be used for guitars with larger sting distance with standard "Humbucker Routing"
 
 > [Routing Template Set](http://www.cbgitty.com/tools-templates/2pc-electric-guitar-pickup-routing-template-set-includes-10-total-templates-for-the-most-popular-pickup-styles/) - provide you with 10 separate magnetic pickup routing templates, one for each of  most popular varieties of magnetic p'ups
 
@@ -384,14 +384,14 @@ Tuning Machines Options:
 
 ### Bridges
 
-Guitar bridge has large **influence on playability** (mainy through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  [Bridge Routing](#bridge-routing) chapter above describes common bridge categories with string spacing specification.
+Guitar bridge has large **influence on playability** (mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  [Bridge Routing](#bridge-routing) chapter above describes common bridge categories with string spacing specification.
 
 Bridge form and material have also some **influence on sound**.
 Good manufacturers provide detailed product information on their pages:
  
 >  [ABM](http://www.abm-guitarpartsshop.com/From-a-Block-to-a-Bridge:_:206.html) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.  
 > [Schaller](http://guitar-bridge.com/hp12603/Guitar.htm) - All available Schaller guitar bridges, tailpieces, finetuning tailpieces and bridge-tailpiece combinations. (Plus Technical drawings).  
->  [To­ne­Pros](http://www.tonepros.com/bridge-and-tailpiece-sets/)  - bridge and tailpiece sets.
+>  [TonePros](http://www.tonepros.com/bridge-and-tailpiece-sets/)  - bridge and tailpiece sets.
 
 ### Knob Styles
 
