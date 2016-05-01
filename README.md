@@ -2,10 +2,10 @@
 ## Electric Guitar Specifications 
 
 
-This is a "top-down checklist" for the assembly of a solid body electric guitar.
+This is a "top-down checklist" for the assembly of a solid-body electric guitar.
 It can help you to build a guitar with specific sound and playability characteristics. 
 
-> Practical tips and product links are marked as quotation.
+> Practical tips and product links are marked as quotations.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Please read [licence](#licence) and the [contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) before contributing. 
 
@@ -75,9 +75,9 @@ Body [Material](#woods) | + | + |
 
 *influence ( "-" stands for little,  "++++"  stands for very strong)
 
-For example, for building a solid body 'jazz-sounding' guitar you have to choose (top down by importance): 
+For example, for building a solid-body 'jazz-sounding' guitar you have to choose (top down by importance): 
 
- - vintage or jazz  pickup with convenient po­ten­tiomet­er and capacitor values
+ - vintage or jazz pickup with convenient po­ten­tiomet­er and capacitor values
  - flatwound strings
  - massive neck, hollow body with wood such as mahagony 
  - shorter scale length
@@ -128,7 +128,7 @@ Swamp-Ash 	| neutral	| light  | T/B 		| bright, attractive
 Walnut 		| bright 	| medium | T/B/N 	| gray, attractive
 Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
 
-¹ Sound:  the diagram for effects on tone stands mainly for acoustic instruments and NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright, despite the representations below. 
+¹ Sound:  the diagram for effects on tone stands mainly for acoustic instruments and NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright despite the representations below. 
 ² Weight may vary for the same variety. 
 ³ Used for: T - Body Top | B - Body | N - neck | F - fretboards
 
@@ -139,7 +139,7 @@ Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
 
 ## Guitar Necks
 
-Neck thickness, neck width, neck contour and fret wire size affect playability and are a matter of personal taste. Important for good playability is balanced interaction of these components.  Thicker neck often creates warmer tone.
+Neck thickness, neck width, neck contour and fret wire size affect playability and are a matter of personal taste. Important for good playability is balanced interaction of these components. Thicker neck often creates warmer tone.
 
 >  [Warmoth guitar necks FAQ](http://www.warmoth.com/Guitar/Necks/faq2.aspx)  -  Quality guitar necks, made in USA.  
 >  [USACG necks](www.usacustomguitars.com/necks) -  over 80 shape and thickness combinations made for individual players' preferences.  
@@ -459,7 +459,7 @@ Following topics change resonant frequency and resonant peak:
 
  - [Pickup Properties](#pickup-properties)  - position and height of frequency peak vary from type to type.
  - [Electronics Wiring Options](#electronics-wiring-options)  - Hambucker coils are switched in series by default, switching them in parallel or using only one of the coils will increase resonant frequency and the sound will have more treble.
- - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values) - changing, give also simple way to change resonant frequency and peak.
+ - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values) changing provides also simple way to change resonant frequency and peak.
  - Cable capacitance - longer cable will lead to lower resonant frequency.
  - Amp input impedance
 
@@ -469,8 +469,8 @@ Following topics change resonant frequency and resonant peak:
 - Output: low(vintage), medium, high (vintage used often for jazz and blues)
 - Wiring:  1, 2, 3  or 4-Con­ductor (4-Con­ductor allowing most flexible wiring)*
 - Position: Bridge, Neck, Midd­le 
-- Passive vs Active (Active often used for distortion sound)
-- D.C. Resistance: indication, how much output a pickup will have
+- Passive vs. Active (Active often used for distortion sound)
+- D.C. Resistance: indication how much output a pickup will have
 - E.Q. chat: A general idea as to the Bass, Mids and Treble.
 
 >  [seymourduncan.com](http://www.seymourduncan.com/pickup-selector-step-1) - pickup selector     
@@ -502,7 +502,7 @@ pickup switch 			    |  -   |  -  |  -  |  y  | y   | y  |
 
 '³³' [example wiring "series/parallel & coil tap" together](http://guitar-parts.biz/hp544936/Specialities.htmhttp://guitar-parts.biz/hp544936/Specialities.htmhttp://guitar-parts.biz/hp544936/Specialities.htm) - with megaswitch.
 
-> More wiring schemans from:
+> More wiring schemas from:
 > 
 >- [seymourduncan](http://www.seymourduncan.com/wiring-diagrams)
 >- [dimarzio](http://www.dimarzio.com/support/wiring-diagrams)
@@ -543,7 +543,7 @@ long     | 24 mm 	  |  8 mm  | 20 mm  | 27,5 mm | most Gibson LP guitars
 
 ### Active Pickups Electronics
 
-Active Electronics tryes to reduce dependancy from the shielded cable and amp input impedance. However that needs power to operate, and that's his biggest drawback.
+Active Electronics tries to reduce dependancy from the shielded cable and amp input impedance. However, that needs power to operate, and that's its biggest drawback.
 
 > [Custom Buffers (german)](http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.    
 > [Seymour Duncan BMP-1Standard Blackout Modular Preamp](http://www.thomann.de/de/seymour_duncan_bmp_1standard_blackout_modular.htm) - make any pickup active.  
