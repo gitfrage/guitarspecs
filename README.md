@@ -142,7 +142,7 @@ Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
 Neck thickness, neck width, neck contour and fret wire size affect playability and are a matter of personal taste. Important for good playability is balanced interaction of these components. Thicker neck often creates warmer tone.
 
 >  [Warmoth guitar necks FAQ](http://www.warmoth.com/Guitar/Necks/faq2.aspx)  -  Quality guitar necks, made in USA.  
->  [USACG necks](www.usacustomguitars.com/necks) -  over 80 shape and thickness combinations made for individual players' preferences.  
+>  [USACG necks](http://www.usacustomguitars.com/necks) -  over 80 shape and thickness combinations made for individual players' preferences.  
 >  [Musikraft custom necks](https://musikraft.com/cmspage.php?page_id=18) - additional information fot in-depth understanding of all neck features.  
 
 ### Neck Nut Width 
