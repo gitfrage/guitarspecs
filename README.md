@@ -446,8 +446,7 @@ Electronics exerts greatest influence on the overall sound of a solid-body elect
 
 > [The Secrets of Electric Guitar Pickups](http://www.buildyourguitar.com/resources/lemme/index.htm) - "If you know the resonant frequency and height of the resonant peak, you know about 90 percent of a pickup's transfer characteristics. Some other effects cannot be described using this model, but their influence is less important".
 
-Frequency response of a magnetic pickup may look like this:
-
+Frequency response of a magnetic pickup may look ![like this](https://github.com/gitfrage/guitarspecs/blob/master/images/resonant_peak_and_frequency.jpg)
 
 Sound group | Resonant frequency |  Resonant peak | Example Pickup 
 ------------|--------------------|----------------|--------------
