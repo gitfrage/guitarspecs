@@ -94,7 +94,7 @@ A guitar's scale length is calculated by measuring the distance from the front e
  - 650 mm (25.5)	- typical classical guitars
  - 686 mm (27") or longer - Baritone guitars
 
-![scale-length](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/images/scale.JPG)
+![scale-length](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/images/scale3.JPG)
 
 Scale has a relatively low impact on sound and playability of the guitar. (Compared with other parameters such as strings or pickups).
 
