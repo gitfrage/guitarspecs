@@ -84,7 +84,8 @@ For example, for building a solid-body 'jazz-sounding' guitar you have to choose
 
 ----------
 
-## Guitar Necks ![Guitar Necks](./images/clip2_neck.JPG)
+## Guitar Necks 
+![Guitar Necks](./images/clip2_neck.JPG)
 
 Neck thickness, neck width, neck contour and fret wire size affect playability and are a matter of personal taste. Important for good playability is balanced interaction of these components. Thicker neck often creates warmer tone.
 
@@ -189,7 +190,8 @@ High Jum­bo	 | wide	   | very high | many Ibanez
 
 ----------
 
-## Guitar Bodies	![Guitar Bodies](./images/clip1_body.JPG)
+## Guitar Bodies
+![Guitar Bodies](./images/clip1_body.JPG)
 
 The sound of electric guitar depends mainly on the vibration behavior of the string itself and the reproduction characteristics of the pickup. The vibration behavior of the string depends (very little) on wood. The body itself is very thick compared to the neck, that is why the body wood type and form have very limited influence on the sound of electric guitar.
 
@@ -215,7 +217,6 @@ Jazzmaster              | mm (")
 
 > Seymourduncan.com says: 
 > "A quick and easy way to tell which you need is to measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Trembucker. If it’s less than two inches or 50mm, go for a humbucker."
-
 
 
 ### Bridge Routing
@@ -322,9 +323,11 @@ Instead Tailpiece - there may be "strings through the body" drillings.
 
 ----------
 
-## Hardware  ![hardware](./images/clip12_hardware.JPG)
+## Hardware  
+![hardware](./images/clip12_hardware.JPG)
 
-### Tuning Machines  ![tuning machine head](./images/clip10_tuning-machine-head.JPG)
+### Tuning Machines  
+![tuning machine head](./images/clip10_tuning-machine-head.JPG)
 
 Tuning Machines Options:
 
@@ -335,7 +338,8 @@ Tuning Machines Options:
  
 > [Schaller](http://guitar-parts.biz/hp290537/Machine-Heads.htm)  - useful information and technical drawing of guitar machine heads
 
-### Bridges ![bridge](./images/clip11_bridge.JPG)
+### Bridges 
+![bridge](./images/clip11_bridge.JPG)
 
 Guitar bridge has large **influence on playability** (mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  [Bridge Routing](#bridge-routing) chapter above describes common bridge categories with string spacing specification.
 
@@ -346,7 +350,8 @@ Good manufacturers provide detailed product information on their pages:
 > [Schaller](http://guitar-bridge.com/hp12603/Guitar.htm) - All available Schaller guitar bridges, tailpieces, finetuning tailpieces and bridge-tailpiece combinations. (Plus Technical drawings).  
 >  [TonePros](http://www.tonepros.com/bridge-and-tailpiece-sets/)  - bridge and tailpiece sets.
 
-### Knob Styles ![knob](https://github.com/gitfrage/guitarspecs/blob/master/images/clip13_knob.JPG)
+### Knob Styles 
+![knob](https://github.com/gitfrage/guitarspecs/blob/master/images/clip13_knob.JPG)
 
 There are 3 common styles of knobs: 
 
@@ -356,7 +361,8 @@ There are 3 common styles of knobs:
 
 > [philadelphialuthiertools.com](http://blog.philadelphialuthiertools.com/2013/05/16/choosing-the-correct-knob-for-your-guitar-or-bass/)  - Choosing the correct knob for your guitar or bass.
 
-### More Parts To Complete ![jackplate](./images/clip9_jackplate.JPG)
+### More Parts To Complete 
+![jackplate](./images/clip9_jackplate.JPG)
 
  - Jacks & jackplates
  - Neck plate (neck-to-body)
@@ -369,7 +375,8 @@ There are 3 common styles of knobs:
 
 ----------------
 
-## Electronics  ![electronics](./images/clip3_harness.JPG)
+## Electronics  
+![electronics](./images/clip3_harness.JPG)
 
 
 Electronics exerts greatest influence on the overall sound of a solid-body electric guitar.
@@ -392,7 +399,8 @@ Following topics change resonant frequency and resonant peak:
  - Cable capacitance - longer cable will lead to lower resonant frequency.
  - Amp input impedance
 
-### Pickup Properties ![Pickup Properties](./images/clip5_hambucker.JPG)
+### Pickup Properties 
+![pickup properties](./images/clip5_hambucker.JPG)
 
 - Dimension and product group - see chapter  [Puckup Routing](#pickup-routing)
 - Output: low(vintage), medium, high (vintage used often for jazz and blues)
@@ -405,7 +413,8 @@ Following topics change resonant frequency and resonant peak:
 >  [seymourduncan.com](http://www.seymourduncan.com/pickup-selector-step-1) - pickup selector     
 >  [dimarzio.com](http://www.dimarzio.com/pickup-picker) - pickup picker
 
-### Electronics Wiring Options  ![enter image description here](./images/clip14_switch.JPG)
+### Electronics Wiring Options  
+![electronics wiring options](./images/clip14_switch.JPG)
 
 Possible effect by tool | Pot | DPDP(ON/OFF/ON)| DPDP(ON/ON) | DPDP(ON/ON/ON) | X-Way Blade Switches | Rotary Switch
 ------------------------|-----|----------------|--------------|-----------------------|-----------------------|------------------
@@ -432,7 +441,8 @@ pickup switch 			    |  -   |  -  |  -  |  y  | y   | y  |
 '³³' [guitar-parts.biz - example wiring "series/parallel & coil tap" together](http://guitar-parts.biz/hp544936/Specialities.htm) - with megaswitch.
 
 
-### Electronics Wiring Schemas  ![enter image description here](./images/clip4_wiring.JPG)
+### Electronics Wiring Schemas  
+![electronics wiring schemas](./images/clip4_wiring.JPG)
 
 More wiring schemas from: 
 
@@ -444,7 +454,8 @@ More wiring schemas from:
 
 > *[guitar-repairs.co.uk](http://www.guitar-repairs.co.uk/guitar_pickup_colour_codes.htm)  - Guitar pickup manufacturer's wiring and color codes 
 
-### Potentiometer and Capacitor Values ![cap values](./images/clip16_cap.JPG)
+### Potentiometer and Capacitor Values 
+![cap values](./images/clip16_cap.JPG)
 
 Sound group    			| Pot  | Cap     | Examples
 ------------------------|------|---------|----
@@ -457,7 +468,8 @@ jazzy  					| 250K | 0.047mF | some teles (ASAT BluesBoy)
 
 > http://www.planetz.com/guitar-tone-capacitors-material-types -   comparison of tone capacitor material types and capacitance values.
 
-### Volume and Tone Potentiometer Options ![volume and tone pot](./images/clip15_pot.JPG)
+### Volume and Tone Potentiometer Options 
+![volume and tone pot](./images/clip15_pot.JPG)
 
 Group    | Pot body Ø  | Bushing Ø | Bushing length | Shaft length | Example
 ---------|-------------|-----------|----------------|--------------|------------
@@ -474,7 +486,8 @@ long     | 24 mm 	  |  8 mm  | 20 mm  | 27,5 mm | most Gibson LP guitars
 > [mouser.de - guitar potentiometer category](http://www.mouser.de/Passive-Components/Potentiometers-Trimmers-Rheostats/Potentiometers/_/N-9q0yp?P=1yiiebq&Keyword=Potentiometers&FS=True) - showing more options.
 
 
-### Active Pickups Electronics ![active pickups](./images/clip7_active-pickup.JPG)
+### Active Pickups Electronics 
+![active pickups](./images/clip7_active-pickup.JPG)
 
 Active Electronics tries to reduce dependancy from the shielded cable and amp input impedance. However, that needs power to operate, and that's its biggest drawback.
 
