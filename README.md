@@ -62,7 +62,7 @@ Component   | Sound* | Playability*
 ------------|---------------------|---------------
 Neck - [Form](#neck-back-contours) | + | ++++
 Neck - [Nut Slot Spacing](#nut-slot-spacing) | - | +++
-Body - [Form](#guitar-bodies) | ++ | ++++
+Body - [Form](#guitar-bodies) | + | ++++
 Body - [Bridge](#bridges) Form | + | +++
 Body - [Bridge](#bridges) Material| + | -
 Electronics - [Pickup Properties](#pickup-properties) | ++++ | -
