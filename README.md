@@ -89,7 +89,7 @@ For example, for building a solid-body 'jazz-sounding' guitar you have to choose
 
 Neck thickness, neck width, neck contour and fret wire size affect playability and are a matter of personal taste. Important for good playability is balanced interaction of these components. Thicker neck often creates warmer tone.
 
->  [warmoth.com](http://www.warmoth.com/Guitar/Necks/faq2.aspx)  - guitar necks FAQ and quality guitar necks.
+>  [warmoth.com](http://www.warmoth.com/Guitar/Necks/faq2.aspx)  - guitar necks FAQ and quality guitar necks.	
 >  [usacustomguitars.com/necks](http://www.usacustomguitars.com/necks) -  many neck shape and thickness combinations   
 >  [musikraft.com](https://musikraft.com/cmspage.php?page_id=18) - additional information for understanding of neck features.  
 
