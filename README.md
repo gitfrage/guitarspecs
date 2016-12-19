@@ -351,7 +351,7 @@ Good manufacturers provide detailed product information on their pages:
 >  [TonePros](http://www.tonepros.com/bridge-and-tailpiece-sets/)  - bridge and tailpiece sets.
 
 ### Knob Styles 
-![knob](https://github.com/gitfrage/guitarspecs/blob/master/images/clip13_knob.JPG)
+![knob](./images/clip13_knob.JPG)
 
 There are 3 common styles of knobs: 
 
