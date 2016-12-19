@@ -415,7 +415,7 @@ Following topics change resonant frequency and resonant peak:
 ### Electronics Wiring Options  
 ![electronics wiring options](./images/clip14_switch.JPG)
 
-Possible effect by tool | Pot | DPDP(ON/OFF/ON)| DPDP(ON/ON) | DPDP(ON/ON/ON) | X-Way Blade Switches | Rotary Switch
+Effect | Pot | DPDP (ON/OFF/ON)| DPDP (ON/ON) | DPDP (ON/ON/ON) | X-Way Blade Switches | Rotary Switch
 ------------------------|-----|----------------|--------------|-----------------------|-----------------------|------------------
 volume 					    |  y¹  | -/y²|  -  |  -  | -   | -  |
 tone 					    |  y¹¹ | -/y²|  -  |  -  | -   | y³ |
