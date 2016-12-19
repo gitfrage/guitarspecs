@@ -111,7 +111,7 @@ The real  e1 to E6 string space can be controlled not only through nut width, bu
 > [graphtech.com ](http://www.graphtech.com/products/brands/tusq/tusq-guitar-nuts) - sizing guide and pre-slotted nuts
 
 
-###  Width and Mounting 
+### Neck Heel Width and Mounting 
 
 Most guitart parts manufacturer adopted Fender's® neck heel and neck pocket dimensions:
 
@@ -123,10 +123,9 @@ These dimensions are not a standard. Only careful measurement ensures that your 
 
 Strat necks have a rounded base to their heel and Tele necks have a squared-off base to their heel, which makes it difficult to interchange the two types of necks across various bodies.
 
-![enter image description here](./images/neck-heel-strat-vs-tele.JPG)
+![neck-heel-strat-vs-tele](./images/neck-heel-strat-vs-tele.JPG)
 
 Standard Fender heel mounting is done with 4-Bolt Holes - 1/8" (3mm) diameter (spread of 2" x 1-1/2").
-
 
 ### Fretboard's Radius
 
