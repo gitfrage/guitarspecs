@@ -55,7 +55,8 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
 
 ---------------
 
-## Sound and Playability Influencing Factors ![enter image description here](./images/clip8_general-pickup.JPG)
+## Sound and Playability Influencing Factors 
+![enter image description here](./images/clip8_general-pickup.JPG)
 
 Component   | Sound* | Playability* 
 ------------|---------------------|---------------
