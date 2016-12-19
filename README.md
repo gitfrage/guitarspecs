@@ -1,5 +1,5 @@
 
-## Electric Guitar Specifications 
+## Electric Guitar Specifications [guitarspecs.info](https://www.guitarspecs.info)
 
 
 This is a "top-down checklist" for the assembly of a solid-body electric guitar.
