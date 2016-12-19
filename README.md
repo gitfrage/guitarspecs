@@ -55,7 +55,7 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
 
 ---------------
 
-## Sound and Playability Influencing Factors  ![enter image description here](./images/clip8_general-pickup.JPG)
+## Sound and Playability Influencing Factors ![enter image description here](./images/clip8_general-pickup.JPG)
 
 Component   | Sound* | Playability* 
 ------------|---------------------|---------------
@@ -188,7 +188,7 @@ High Jum­bo	 | wide	   | very high | many Ibanez
 
 ----------
 
-## Guitar Bodies ![Guitar Bodies](./images/clip2_body.JPG)
+## Guitar Bodies	![Guitar Bodies](./images/clip1_body.JPG)
 
 The sound of electric guitar depends mainly on the vibration behavior of the string itself and the reproduction characteristics of the pickup. The vibration behavior of the string depends (very little) on wood. The body itself is very thick compared to the neck, that is why the body wood type and form have very limited influence on the sound of electric guitar.
 
