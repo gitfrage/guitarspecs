@@ -31,24 +31,21 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
         - [Tune-O-Matic Gibson Style Routing](#tune-o-matic-gibson-style-routing)
 
 - [Hardware](#hardware)
- -  [Tuning Machines](#tuning-machines)
+  - [Tuning Machines](#tuning-machines)
   - [Bridges](#bridges)
   - [Knob Styles](#knob-styles)
   - [More Parts To Complete](#more-parts-to-complete)
 
 - [Electronics](#electronics)
- - [Pickup Properties](#pickup-properties)
- - [Electronics Wiring Options](#electronics-wiring-options)
- - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values)
- - [Volume and Tone Potentiometer Options](#volume-and-tone-potentiometer-options)
- - [Active Pickups Electronic](#active-pickups-electronics)
+  - [Pickup Properties](#pickup-properties)
+  - [Electronics Wiring Options](#electronics-wiring-options)
+  - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values)
+  - [Volume and Tone Potentiometer Options](#volume-and-tone-potentiometer-options)
+  - [Active Pickups Electronic](#active-pickups-electronics)
 
 - [Strings](#strings)
-
 - [Scale Length](#scale-length)
-
 - [Woods](#woods)
-
 - [Licence and the contribution guidelines](#licence-and-the-contribution-guidelines)
 
 ---------------
@@ -383,8 +380,8 @@ Following topics change resonant frequency and resonant peak:
 > [open.guitars](https://open.guitars/e-gitarren-selbstbau/elektronik/gitarrenelektronik-tonabnehmer-spulenschaltung/) - Hambucker Con­ductor/Coils switching options (german).
 
 
-Effect                    | Pot | Push/Pull or Mini <br> DPDT(ON/OFF/ON)* | Mini <br>DPDP(ON/ON) | Mini <br> DPDP(ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
----------------------------------|-----|----------------|--------------|-----------------------|----------------------
+Effect | Pot | Push/Pull or Mini <br> DPDT(ON/OFF/ON)* | Mini <br>DPDP(ON/ON) | Mini <br> DPDP(ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
+-------|-----|-----------------------------------------|----------------------|------------------------|-----------------------------------|-------------
 volume                    |  y   | -/y¹ |  -  |  -  | -   | -
 tone                      |  y   | -/y¹ |  -  |  -  | -   | y³
 series/parallel           |  -   |  y   |  -  |  y  | y   | y
@@ -516,8 +513,8 @@ Shorter scale length sound characteristics:
 
 ## Woods
 
-Woods       | Sound¹    | Weight²| Used for³| Looks
-------------|---------- | ------ | -------- | ---------| ---------------
+Woods           | Sound¹    | Weight²| Used for³| Looks
+----------------|---------- |------  | -------- | --------
 Alder     	| bright   	| medium | T/B      | bright, simple
 Ash    		| bright   	| medium | T/B  	| bright, simple
 Basswood   	| neutral	| light  | B  		| bright, simple
