@@ -201,7 +201,7 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 ### Pickup Routing
 
 Description  | Av. length/width/depth*
---------------|-------------------------------------|------
+--------------|-----------------------------------
 Single Coils Strat     	  | mm (")
 Humbucker 		  	  	 | mm (")
 Wide Humbucker** 		 | mm (")
