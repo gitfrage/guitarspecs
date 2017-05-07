@@ -115,7 +115,7 @@ edge analog 43 mm neck  | 44,5 mm (1-3/4")| 37.5 mm       | 7.5 mm         | 2 x
 
 ### Neck Heel Width and Mounting
 
-Most guitart parts manufacturer adopted Fender's® neck heel and neck pocket dimensions:
+Most guitar parts manufacturer adopted Fender's® neck heel and neck pocket dimensions:
 
  - 56 mm (2-3/16") - Width
  - 76 mm (3") - Length
@@ -331,7 +331,7 @@ There are 3 common styles of knobs:
  - Strap Holders
 
 
-For each screw, the hole must be pre-drilled to the core diameter (not outer diameter)
+For each screw, the hole must be pre-drilled to the core diameter (not outer diameter).
 
 ----------------
 
@@ -343,7 +343,7 @@ Electronics exerts greatest influence on the overall sound of a solid-body elect
 
 > [buildyourguitar.com -  The Secrets of Electric Guitar Pickups by Lemme](http://www.buildyourguitar.com/resources/lemme/index.htm) - "If you know the resonant frequency and height of the resonant peak, you know about 90 percent of a pickup's transfer characteristics. Some other effects cannot be described using this model, but their influence is less important".
 
-Frequency response of a magnetic pickup may looklike this ![resonant peak and frequency](./images/resonant_peak_and_frequency.jpg)
+Frequency response of a magnetic pickup may look like this![resonant peak and frequency](./images/resonant_peak_and_frequency.jpg)
 
 Sound group | Resonant frequency |  Resonant peak | Example Pickup
 ------------|--------------------|----------------|--------------
