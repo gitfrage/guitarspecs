@@ -96,11 +96,11 @@ The contours (C, U, V, asymmetrical) and the thickness (.0750"- 1") give many po
 
 Contour     | Thickness   | Warmoth*      | Fender*                   | Gibson*      
 ------------|-------------|---------------|---------------------------|--------------
-D           | dünn        | Wizard        | D Shape                   |           
-C           | dünn/medium | Standard Thin | C Shape (AM Std)          | Traditional C
+D           | thin        | Wizard        | D Shape                   |           
+C           | thin/medium | Standard Thin | C Shape (AM Std)          | Traditional C
 C           | medium      | 59 Roundback  | Deep C                    | Round C (1959 LP)             
-U           | dick        | Fatback       | U Shape  (Vintage Tele)   | 
-V           | dick        | Boatneck      | V Shape (Vintage 52 Tele) |             
+U           | thick       | Fatback       | U Shape  (Vintage Tele)   | 
+V           | thick       | Boatneck      | V Shape (Vintage 52 Tele) |             
 asymmetrisch| medium      | Wolfgang      | Modern C                  |        
 
 >  [*warmoth](http://www.warmoth.com/Guitar/Necks/BackContours.aspx) - Warmoth Neck Profiles    
