@@ -87,9 +87,8 @@ For example, for building a solid-body 'jazz-sounding' guitar you have to choose
 
 Neck thickness, neck width, neck contour and fret wire size affect playability and are a matter of personal taste. Important for good playability is balanced interaction of these components. Thicker neck often creates warmer tone.
 
->  [warmoth.com](http://www.warmoth.com/Guitar/Necks/faq2.aspx)  - guitar necks FAQ and quality guitar necks.
->  [usacustomguitars.com/necks](http://www.usacustomguitars.com/necks) -  many neck shape and thickness combinations
->  [musikraft.com](https://musikraft.com/cmspage.php?page_id=18) - additional information for understanding of neck features.
+>  [usacustomguitars.com/necks](http://www.usacustomguitars.com/necks) -  many neck shape and thickness combinations    
+>  [musikraft.com](https://musikraft.com/cmspage.php?page_id=18) - additional information for understanding of neck features.   
 
 ### Neck Nut Width
 
@@ -104,9 +103,9 @@ U           | dick        | Fatback       | U Shape  (Vintage Tele)   |
 V           | dick        | Boatneck      | V Shape (Vintage 52 Tele) |             
 asymmetrisch| medium      | Wolfgang      | Modern C                  |        
 
->  [*warmoth](http://www.warmoth.com/Guitar/Necks/BackContours.aspx) - Warmoth Neck Profiles
->  [*fender](http://shop.fender.com/de-DE/electric-guitars/telecaster/) - see "NECK SHAPE" Filter
->  [*gibson forum](http://forum.gibson.com/index.php?/topic/74036-gibson-neck-profiles) - Gibson Neck Profiles
+>  [*warmoth](http://www.warmoth.com/Guitar/Necks/BackContours.aspx) - Warmoth Neck Profiles    
+>  [*fender](http://shop.fender.com/de-DE/electric-guitars/telecaster/) - see "NECK SHAPE" Filter     
+>  [*gibson forum](http://forum.gibson.com/index.php?/topic/74036-gibson-neck-profiles) - Gibson Neck Profiles    
 
 
 ### Nut Slot Spacing
@@ -124,7 +123,7 @@ edge analog 43 mm neck  | 44,5 mm (1-3/4")| 37.5 mm       | 7.5 mm         | 2 x
 
 ### Neck Heel Width and Mounting
 
-Most guitart parts manufacturer adopted Fender's® neck heel and neck pocket dimensions:
+Most guitar parts manufacturer adopted Fender's® neck heel and neck pocket dimensions:
 
  - 56 mm (2-3/16") - Width
  - 76 mm (3") - Length
@@ -196,7 +195,7 @@ High Jum­bo	 | wide	   | very high | many Ibanez
  - approx. 10mm  (13/32" = 10,3mm) - "Planet Waves Style"
  - approx. 10mm on top and 8,7mm bottom -  "Schaller/Grover/Gotoh Slyle"
 
-> [rockinger.com](http://www.rockinger.com/index.php?cat=WG181&product=09211-09213-09214) - the small holes can be enlarged with a sunk.
+> [rockinger.com](http://www.rockinger.com/index.php?cat=WG181&product=09211-09213-09214) - the small holes can be enlarged with a sunk.    
 > [musik-produktiv.de](http://www.musik-produktiv.de/goeldo-adapter-huelsen-fuer-mechaniken.html) -  adapter bushing used for retrofit to big holes.
 
 ----------
@@ -314,9 +313,9 @@ Guitar bridge has large **influence on playability** (mainly through string spac
 Bridge form and material have also some **influence on sound**.
 Good manufacturers provide detailed product information on their pages:
 
->  [ABM](http://www.abm-guitarpartsshop.com/From-a-Block-to-a-Bridge:_:206.html) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.
-> [Schaller](http://guitar-bridge.com/hp12603/Guitar.htm) - All available Schaller guitar bridges, tailpieces, finetuning tailpieces and bridge-tailpiece combinations. (Plus Technical drawings).
->  [TonePros](http://www.tonepros.com/bridge-and-tailpiece-sets/)  - bridge and tailpiece sets.
+>  [ABM](http://www.abm-guitarpartsshop.com/From-a-Block-to-a-Bridge:_:206.html) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.     
+> [Schaller](http://guitar-bridge.com/hp12603/Guitar.htm) - All available Schaller guitar bridges, tailpieces, finetuning tailpieces and bridge-tailpiece combinations. (Plus Technical drawings).    
+>  [TonePros](http://www.tonepros.com/bridge-and-tailpiece-sets/)  - bridge and tailpiece sets.     
 
 ### Knob Styles
 ![knob](./images/clip13_knob.jpg)
@@ -353,7 +352,7 @@ Electronics exerts greatest influence on the overall sound of a solid-body elect
 
 > [buildyourguitar.com -  The Secrets of Electric Guitar Pickups by Lemme](http://www.buildyourguitar.com/resources/lemme/index.htm) - "If you know the resonant frequency and height of the resonant peak, you know about 90 percent of a pickup's transfer characteristics. Some other effects cannot be described using this model, but their influence is less important".
 
-Frequency response of a magnetic pickup may looklike this ![resonant peak and frequency](./images/resonant_peak_and_frequency.jpg)
+Frequency response of a magnetic pickup may look like this ![resonant peak and frequency](./images/resonant_peak_and_frequency.jpg)
 
 Sound group | Resonant frequency |  Resonant peak | Example Pickup
 ------------|--------------------|----------------|--------------
@@ -363,10 +362,10 @@ mellow      | 1.5 - 2kHz   | low peak | Rolling back tone pot
 
 Following topics change resonant frequency and resonant peak:
 
- - [Pickup Properties](#pickup-properties)  - position and height of frequency peak vary from type to type.
- - [Electronics Wiring Options](#electronics-wiring-options)  - Hambucker coils are switched in series by default, switching them in parallel or using only one of the coils will increase resonant frequency and the sound will have more treble.
- - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values) changing provides also simple way to change resonant frequency and peak.
- - Cable capacitance - longer cable will lead to lower resonant frequency.
+ - [Pickup Properties](#pickup-properties)  - position and height of frequency peak vary from type to type.     
+ - [Electronics Wiring Options](#electronics-wiring-options)  - Hambucker coils are switched in series by default, switching them in parallel or using only one of the coils will increase resonant frequency and the sound will have more treble.    
+ - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values) changing provides also simple way to change resonant frequency and peak.     
+ - Cable capacitance - longer cable will lead to lower resonant frequency.  
  - Amp input impedance
 
 ### Pickup Properties
@@ -380,8 +379,8 @@ Following topics change resonant frequency and resonant peak:
 - D.C. Resistance: indication how much output a pickup will have
 - E.Q. chat: A general idea as to the Bass, Mids and Treble.
 
->  [seymourduncan.com](http://www.seymourduncan.com/pickup-selector-step-1) - pickup selector
->  [dimarzio.com](http://www.dimarzio.com/pickup-picker) - pickup picker
+>  [seymourduncan.com](http://www.seymourduncan.com/pickup-selector-step-1) - pickup selector     
+>  [dimarzio.com](http://www.dimarzio.com/pickup-picker) - pickup picker    
 
 ### Electronics Wiring Options
 
@@ -425,8 +424,6 @@ More wiring schemas from:
 >- [bareknucklepickups](https://bareknucklepickups.co.uk/main/schematics.php)
 >- [amplifiedparts](https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams)
 
-> *[guitar-repairs.co.uk](http://www.guitar-repairs.co.uk/guitar_pickup_colour_codes.htm)  - Guitar pickup manufacturer's wiring and color codes
-
 ### Potentiometer and Capacitor Values
 ![cap values](./images/clip16_cap.jpg)
 
@@ -464,9 +461,9 @@ long     | 24 mm 	  |  8 mm  | 20 mm  | 27,5 mm | most Gibson LP guitars
 
 Active Electronics tries to reduce dependancy from the shielded cable and amp input impedance. However, that needs power to operate, and that's its biggest drawback.
 
-> [Custom Buffers (german)](http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.
-> [Seymour Duncan BMP-1Standard Blackout Modular Preamp](http://www.seymourduncan.com/accessory/blackouts-preamp-short-shaft) - make any pickup active.
-> [EMG PA2 Preamp/Booster](http://www.emgpickups.com/pa2.html)  -   mini-switch with 0-20dB boost.
+> [Custom Buffers (german)](http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.    
+> [Seymour Duncan BMP-1Standard Blackout Modular Preamp](http://www.seymourduncan.com/accessory/blackouts-preamp-short-shaft) - make any pickup active.     
+> [EMG PA2 Preamp/Booster](http://www.emgpickups.com/pa2.html)  -   mini-switch with 0-20dB boost.    
 
 
 ## Strings
@@ -490,9 +487,9 @@ Baritone 	|  .013    		 | .056
 
 There are also other hybrid sets available - like "Light Top/Heavy Bottom" and "Balanced Tension" combinations.
 
-> [Daddario](http://www.daddario.com/DADProductsElectric.Page?ActiveID=1903) - you can choose between bright and mellow sounding electric strings.
-> [Ghsstrings](http://www.ghsstrings.com/products?categories=electric-guitar) - also bright vs mellow overview, and [Tension Guide (PDF)](http://www.ghsrep.net/uploads/2/2/2/5/22258814/ghs_electric_guitar_string_guide.pdf)
-> [Thomastik](http://www.thomastik-infeld.com/fretted-instruments) - good jazz and blues strings
+> [Daddario](http://www.daddario.com/DADProductsElectric.Page?ActiveID=1903) - you can choose between bright and mellow sounding electric strings.      
+> [Ghsstrings](http://www.ghsstrings.com/products?categories=electric-guitar) - also bright vs mellow overview, and [Tension Guide (PDF)](http://www.ghsrep.net/uploads/2/2/2/5/22258814/ghs_electric_guitar_string_guide.pdf)    
+> [Thomastik](http://www.thomastik-infeld.com/fretted-instruments) - good jazz and blues strings    
 
 
 ## Scale Length
