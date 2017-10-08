@@ -521,7 +521,7 @@ Shorter scale length sound characteristics:
 ## Woods
 
 Woods       | Sound¹    | Weight²| Used for³| Looks
-------------|---------- | ------ | -------- | ---------| ---------------
+------------|---------- |--------|----------|-------------------
 Alder     	| bright   	| medium | T/B      | bright, simple
 Ash    		| bright   	| medium | T/B  	| bright, simple
 Basswood   	| neutral	| light  | B  		| bright, simple
