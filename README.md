@@ -31,21 +31,24 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
         - [Tune-O-Matic Gibson Style Routing](#tune-o-matic-gibson-style-routing)
 
 - [Hardware](#hardware)
-  - [Tuning Machines](#tuning-machines)
+ -  [Tuning Machines](#tuning-machines)
   - [Bridges](#bridges)
   - [Knob Styles](#knob-styles)
   - [More Parts To Complete](#more-parts-to-complete)
 
 - [Electronics](#electronics)
-  - [Pickup Properties](#pickup-properties)
-  - [Electronics Wiring Options](#electronics-wiring-options)
-  - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values)
-  - [Volume and Tone Potentiometer Options](#volume-and-tone-potentiometer-options)
-  - [Active Pickups Electronic](#active-pickups-electronics)
+ - [Pickup Properties](#pickup-properties)
+ - [Electronics Wiring Options](#electronics-wiring-options)
+ - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values)
+ - [Volume and Tone Potentiometer Options](#volume-and-tone-potentiometer-options)
+ - [Active Pickups Electronic](#active-pickups-electronics)
 
 - [Strings](#strings)
+
 - [Scale Length](#scale-length)
+
 - [Woods](#woods)
+
 - [Licence and the contribution guidelines](#licence-and-the-contribution-guidelines)
 
 ---------------
@@ -90,14 +93,21 @@ Neck thickness, neck width, neck contour and fret wire size affect playability a
 
 ### Neck Nut Width
 
-Category    			       | Width 		        | apx. e1/E6*
--------------------------------|------------------  | ---------- | --------------
-Many Fender guitars from Japan | 41 mm (1-5/8")     | 34 mm
-Standard    				   | 42.9 mm (1-11/16") | 35 mm
-Acoustic like    			   | 44.5 mm (1-3/4")   | 38 mm
-Superwide   			       | 48 mm (1-7/8")     | 40 mm
+The contours (C, U, V, asymmetrical) and the thickness (.0750"- 1") give many possible combinations for a neck profile.
 
-*see  following chapter "String Nut Slot Spacing"
+Contour     | Thickness   | Warmoth*      | Fender*                   | Gibson*      
+------------|-------------|---------------|---------------------------|--------------
+D           | dünn        | Wizard        | D Shape                   |           
+C           | dünn/medium | Standard Thin | C Shape (AM Std)          | Traditional C
+C           | medium      | 59 Roundback  | Deep C                    | Round C (1959 LP)             
+U           | dick        | Fatback       | U Shape  (Vintage Tele)   | 
+V           | dick        | Boatneck      | V Shape (Vintage 52 Tele) |             
+asymmetrisch| medium      | Wolfgang      | Modern C                  |        
+
+>  [*warmoth](http://www.warmoth.com/Guitar/Necks/BackContours.aspx) - Warmoth Neck Profiles
+>  [*fender](http://shop.fender.com/de-DE/electric-guitars/telecaster/) - see "NECK SHAPE" Filter
+>  [*gibson forum](http://forum.gibson.com/index.php?/topic/74036-gibson-neck-profiles) - Gibson Neck Profiles
+
 
 ### Nut Slot Spacing
 
@@ -109,13 +119,12 @@ e/E analog 43 mm neck   | 44,5 mm (1-3/4")| 35 mm         | 7 mm           | 2 x
 Ideal solution          | 44,5 mm (1-3/4")| 36.5 mm       | 7.3 mm         | 2 x 4 mm
 edge analog 43 mm neck  | 44,5 mm (1-3/4")| 37.5 mm       | 7.5 mm         | 2 x 3.5 mm
 
-
 > [graphtech.com ](http://www.graphtech.com/products/brands/tusq/tusq-guitar-nuts) - sizing guide and pre-slotted nuts
 
 
 ### Neck Heel Width and Mounting
 
-Most guitar parts manufacturer adopted Fender's® neck heel and neck pocket dimensions:
+Most guitart parts manufacturer adopted Fender's® neck heel and neck pocket dimensions:
 
  - 56 mm (2-3/16") - Width
  - 76 mm (3") - Length
@@ -128,6 +137,7 @@ Strat necks have a rounded base to their heel and Tele necks have a squared-off 
 ![neck-heel-strat-vs-tele](./images/neck-heel-strat-vs-tele.jpg)
 
 Standard Fender heel mounting is done with 4-Bolt Holes - 1/8" (3mm) diameter (spread of 2" x 1-1/2").
+
 
 ### Fretboard's Radius
 
@@ -201,7 +211,7 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 ### Pickup Routing
 
 Description  | Av. length/width/depth*
---------------|-----------------------------------
+--------------|-------------------------------------|------
 Single Coils Strat     	  | mm (")
 Humbucker 		  	  	 | mm (")
 Wide Humbucker** 		 | mm (")
@@ -331,7 +341,7 @@ There are 3 common styles of knobs:
  - Strap Holders
 
 
-For each screw, the hole must be pre-drilled to the core diameter (not outer diameter).
+For each screw, the hole must be pre-drilled to the core diameter (not outer diameter)
 
 ----------------
 
@@ -343,7 +353,7 @@ Electronics exerts greatest influence on the overall sound of a solid-body elect
 
 > [buildyourguitar.com -  The Secrets of Electric Guitar Pickups by Lemme](http://www.buildyourguitar.com/resources/lemme/index.htm) - "If you know the resonant frequency and height of the resonant peak, you know about 90 percent of a pickup's transfer characteristics. Some other effects cannot be described using this model, but their influence is less important".
 
-Frequency response of a magnetic pickup may look like this![resonant peak and frequency](./images/resonant_peak_and_frequency.jpg)
+Frequency response of a magnetic pickup may looklike this ![resonant peak and frequency](./images/resonant_peak_and_frequency.jpg)
 
 Sound group | Resonant frequency |  Resonant peak | Example Pickup
 ------------|--------------------|----------------|--------------
@@ -380,8 +390,8 @@ Following topics change resonant frequency and resonant peak:
 > [open.guitars](https://open.guitars/e-gitarren-selbstbau/elektronik/gitarrenelektronik-tonabnehmer-spulenschaltung/) - Hambucker Con­ductor/Coils switching options (german).
 
 
-Effect | Pot | Push/Pull or Mini <br> DPDT(ON/OFF/ON)* | Mini <br>DPDP(ON/ON) | Mini <br> DPDP(ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
--------|-----|-----------------------------------------|----------------------|------------------------|-----------------------------------|-------------
+Effect                    | Pot | Push/Pull or Mini <br> DPDT(ON/OFF/ON)* | Mini <br>DPDP(ON/ON) | Mini <br> DPDP(ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
+---------------------------------|-----|----------------|--------------|-----------------------|----------------------
 volume                    |  y   | -/y¹ |  -  |  -  | -   | -
 tone                      |  y   | -/y¹ |  -  |  -  | -   | y³
 series/parallel           |  -   |  y   |  -  |  y  | y   | y
@@ -513,8 +523,8 @@ Shorter scale length sound characteristics:
 
 ## Woods
 
-Woods           | Sound¹    | Weight²| Used for³| Looks
-----------------|---------- |------  | -------- | --------
+Woods       | Sound¹    | Weight²| Used for³| Looks
+------------|---------- | ------ | -------- | ---------| ---------------
 Alder     	| bright   	| medium | T/B      | bright, simple
 Ash    		| bright   	| medium | T/B  	| bright, simple
 Basswood   	| neutral	| light  | B  		| bright, simple
