@@ -31,17 +31,17 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
         - [Tune-O-Matic Gibson Style Routing](#tune-o-matic-gibson-style-routing)
 
 - [Hardware](#hardware)
- -  [Tuning Machines](#tuning-machines)
+  - [Tuning Machines](#tuning-machines)
   - [Bridges](#bridges)
   - [Knob Styles](#knob-styles)
   - [More Parts To Complete](#more-parts-to-complete)
 
 - [Electronics](#electronics)
- - [Pickup Properties](#pickup-properties)
- - [Electronics Wiring Options](#electronics-wiring-options)
- - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values)
- - [Volume and Tone Potentiometer Options](#volume-and-tone-potentiometer-options)
- - [Active Pickups Electronic](#active-pickups-electronics)
+  - [Pickup Properties](#pickup-properties)
+  - [Electronics Wiring Options](#electronics-wiring-options)
+  - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values)
+  - [Volume and Tone Potentiometer Options](#volume-and-tone-potentiometer-options)
+  - [Active Pickups Electronic](#active-pickups-electronics)
 
 - [Strings](#strings)
 
@@ -113,7 +113,7 @@ asymmetrisch| medium      | Wolfgang      | Modern C                  |
 
 The real  e1 to E6 string space can be controlled not only through nut width, but also by slot spacing in the nut.  For example, 44.5 mm wide nut can have e1 to E6 distance between 35 and 37.5 mm.
 
-Kategorie               | Neck Nut Width  |  e1/E6        | 2 strings      | e/E to edge
+Category                | Neck Nut Width  |  e1/E6        | 2 strings      | e/E to edge
 ------------------------|-----------------|---------------|----------------|---------------
 e/E analog 43 mm neck   | 44,5 mm (1-3/4")| 35 mm         | 7 mm           | 2 x 4.75 mm
 Ideal solution          | 44,5 mm (1-3/4")| 36.5 mm       | 7.3 mm         | 2 x 4 mm
@@ -390,8 +390,8 @@ Following topics change resonant frequency and resonant peak:
 > [open.guitars](https://open.guitars/e-gitarren-selbstbau/elektronik/gitarrenelektronik-tonabnehmer-spulenschaltung/) - Hambucker Con­ductor/Coils switching options (german).
 
 
-Effect                    | Pot | Push/Pull or Mini <br> DPDT(ON/OFF/ON)* | Mini <br>DPDP(ON/ON) | Mini <br> DPDP(ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
----------------------------------|-----|----------------|--------------|-----------------------|----------------------
+Effect | Pot | Push/Pull or Mini <br> DPDT(ON/OFF/ON)* | Mini <br>DPDP(ON/ON) | Mini <br> DPDP(ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
+------------------------- |------|------|-----|-----|-----|----
 volume                    |  y   | -/y¹ |  -  |  -  | -   | -
 tone                      |  y   | -/y¹ |  -  |  -  | -   | y³
 series/parallel           |  -   |  y   |  -  |  y  | y   | y
