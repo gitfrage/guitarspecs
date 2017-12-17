@@ -297,8 +297,7 @@ Guitar bridge has large **influence on playability** (mainly through string spac
 Bridge form and material have also some **influence on sound**.
 Good manufacturers provide detailed product information on their pages:
 
->  [ABM](http://www.abm-guitarpartsshop.com/From-a-Block-to-a-Bridge:_:206.html) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.     
-> [Schaller](http://guitar-bridge.com/hp12603/Guitar.htm) - All available Schaller guitar bridges, tailpieces, finetuning tailpieces and bridge-tailpiece combinations. (Plus Technical drawings).    
+>  [ABM](https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.     
 >  [TonePros](http://www.tonepros.com/bridge-and-tailpiece-sets/)  - bridge and tailpiece sets.     
 
 ### Knob Styles
