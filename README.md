@@ -468,18 +468,9 @@ There are also other hybrid sets available - like "Light Top/Heavy Bottom" and "
 
 
 ## Scale Length
+![scale-length](./images/scale-length-648-vs-628-mm-neck-web.jpg)
 
 A guitar's scale length is length of string between the nut and the bridge.
-
- - 572 mm (22.5") or shorter - 3/4 & some travel guitars
- - 596,9 mm (23.50") - Fender Jazzmaster/Jaguar guitars
- - 629 mm (24.75") - many Gibson guitars
- - 635 mm (25") - many PRS guitars
- - 648 mm (25.5") - many Fender guitars
- - 650 mm (25.5)	- typical classical guitars
- - 686 mm (27") or longer - Baritone guitars
-
-![scale-length](./images/scale-length-648-vs-628-mm-neck-web.jpg)
 
 Scale has a relatively low impact on sound and playability of the guitar. (Compared with other parameters such as strings or pickups).
 
@@ -492,6 +483,17 @@ Scale has a relatively low impact on sound and playability of the guitar. (Compa
 Shorter scale length sound characteristics:
  - warmer
  - more sustain and longer decay
+ 
+Common Scale Length:
+ 
+ - 572 mm (22.5") or shorter - 3/4 & some travel guitars
+ - 596,9 mm (23.50") - Fender Jazzmaster/Jaguar guitars
+ - 629 mm (24.75") - many Gibson guitars
+ - 635 mm (25") - many PRS guitars
+ - 648 mm (25.5") - many Fender guitars
+ - 650 mm (25.5)	- typical classical guitars
+ - 686 mm (27") or longer - Baritone guitars
+
 
 ## Woods
 ![strings](./images/esche.png)
