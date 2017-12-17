@@ -19,7 +19,7 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
   - [Neck Heel Width and Mounting](#neck-heel-width-and-mounting)
   - [Fretboard’s Radius](#fretboards-radius)
   - [Fret Sizes](#fret-sizes)
-  - [Common Neck Shapes](#common-neck-shapes)
+  - [Common Neck Head Shapes](#common-neck-head-shapes)
   - [Tuner Holes](#tuner-holes)
 
 - [Guitar Bodies](#guitar-bodies)
@@ -163,7 +163,7 @@ High Jum­bo	 | wide	   | very high | many Ibanez
 
 > [lutherie.net](http://www.lutherie.net/fret.chart.html) - provides an excellent manufacturer/sizes overview.
 
-### Common Neck Shapes
+### Common Neck Head Shapes
 
  - 6L  - Fender Style - left in line
  - 6R - for left-handed
