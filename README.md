@@ -1,6 +1,5 @@
 
-## Electric Guitar Specifications https://gitfrage.github.io/guitarspecs/
-
+## Electric Guitar Specifications
 
 This is a "top-down checklist" for the assembly of a solid-body electric guitar.
 It can help you to build a guitar with specific sound and playability characteristics.
