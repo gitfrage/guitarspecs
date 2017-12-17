@@ -444,6 +444,7 @@ Active Electronics tries to reduce dependancy from the shielded cable and amp in
 
 
 ## Strings
+![strings](./images/strings.jpg)
 
 Depending on following options your sound will be more bright or more mellow:
 
