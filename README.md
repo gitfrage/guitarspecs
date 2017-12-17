@@ -14,11 +14,10 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
 - [Sound and Playability Influencing Factors](#sound-and-playability-influencing-factors)
 
 - [Guitar Necks](#guitar-necks)
-  - [Neck Nut Width](#neck-nut-width)
-  - [Nut Slot Spacing](#nut-slot-spacing)
+  - [Neck Profile](#neck-profile)
+  - [Neck Nut Width and Nut Slot Spacing](#neck-nut-width-and-nut-slot-spacing)
   - [Neck Heel Width and Mounting](#neck-heel-width-and-mounting)
   - [Fretboard’s Radius](#fretboards-radius)
-  - [Neck Back Contours](#neck-back-contours)
   - [Fret Sizes](#fret-sizes)
   - [Some Neck Shapes](#some-neck-shapes)
   - [Tuner Holes](#tuner-holes)
@@ -58,8 +57,8 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
 
 Component   | Sound* | Playability*
 ------------|---------------------|---------------
-Neck - [Form](#neck-back-contours) | + | ++++
-Neck - [Nut Slot Spacing](#nut-slot-spacing) | - | +++
+Neck - [Neck Profile](#neck-profile) | + | ++++
+Neck - [Neck Nut Width and Nut Slot Spacing](#neck-nut-width-and-nut-slot-spacing) | - | +++
 Body - [Form](#guitar-bodies) | + | ++++
 Body - [Bridge](#bridges) Form | + | +++
 Body - [Bridge](#bridges) Material| + | -
@@ -90,9 +89,9 @@ Neck thickness, neck width, neck contour and fret wire size affect playability a
 >  [usacustomguitars.com/necks](http://www.usacustomguitars.com/necks) -  many neck shape and thickness combinations    
 >  [musikraft.com](https://musikraft.com/cmspage.php?page_id=18) - additional information for understanding of neck features.   
 
-### Neck Nut Width
+### Neck Profile
 
-The contours (C, U, V, asymmetrical) and the thickness (.0750"- 1") give many possible combinations for a neck profile.
+Neck Profile is the combination of contour (C, U, V , asymmetrc) and thickness (.0750" - 1")
 
 Contour     | Thickness   | Warmoth*      | Fender*                   | Gibson*      
 ------------|-------------|---------------|---------------------------|--------------
@@ -108,7 +107,7 @@ asymmetrisch| medium      | Wolfgang      | Modern C                  |
 >  [*gibson forum](http://forum.gibson.com/index.php?/topic/74036-gibson-neck-profiles) - Gibson Neck Profiles    
 
 
-### Nut Slot Spacing
+### Neck Nut Width and Nut Slot Spacing
 
 The real  e1 to E6 string space can be controlled not only through nut width, but also by slot spacing in the nut.  For example, 44.5 mm wide nut can have e1 to E6 distance between 35 and 37.5 mm.
 
@@ -150,23 +149,6 @@ Smaller radius means a more rounded shape.
  - compound (10" - 16") - Warmoth® and others
 
 > [youtube.com](https://www.youtube.com/watch?v=-yiBbIzGjW8) - understring radius gauges - video demonstration of three different gauges used for guitar setup and fretwork: standard, notched and understring.
-
-
-###  Neck Back Contours
-
-Neck Profile is the combination of contour (C,  U, V , asymmetrc) and thickness (.0750" - 1")
-
-Profiles*    | Thickness | Contours
--------------|--------   | ------------
-Wizard		 | thinn	 | C
-Standard	 | medium	 | C
-Clapton		 | medium  	 | V
-Wolfgang	 | medium	 | asymmetrical
-Boatneck	 | thick	 | V
-Fatback		 | thick  	 | U/C
-
-*see  "warmoth" link above as source of these profile names.
-
 
 ### Fret Sizes
 
@@ -210,7 +192,7 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 ### Pickup Routing
 
 Description  | Av. length/width/depth*
---------------|-------------------------------------|------
+--------------|------------------------------------
 Single Coils Strat     	  | mm (")
 Humbucker 		  	  	 | mm (")
 Wide Humbucker** 		 | mm (")
