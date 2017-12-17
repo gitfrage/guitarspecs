@@ -6,7 +6,7 @@ It can help you to build a guitar with specific sound and playability characteri
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Please read [licence and the contribution guidelines](#licence-and-the-contribution-guidelines) before contributing.
+Please read [licence and the contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) before contributing.
 
 #### Table of Contents
 
@@ -46,8 +46,6 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
 - [Scale Length](#scale-length)
 
 - [Woods](#woods)
-
-- [Licence and the contribution guidelines](#licence-and-the-contribution-guidelines)
 
 ---------------
 
