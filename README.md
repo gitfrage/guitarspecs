@@ -19,7 +19,7 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
   - [Neck Heel Width and Mounting](#neck-heel-width-and-mounting)
   - [Fretboard’s Radius](#fretboards-radius)
   - [Fret Sizes](#fret-sizes)
-  - [Some Neck Shapes](#some-neck-shapes)
+  - [Common Neck Shapes](#common-neck-shapes)
   - [Tuner Holes](#tuner-holes)
 
 - [Guitar Bodies](#guitar-bodies)
@@ -163,7 +163,7 @@ High Jum­bo	 | wide	   | very high | many Ibanez
 
 > [lutherie.net](http://www.lutherie.net/fret.chart.html) - provides an excellent manufacturer/sizes overview.
 
-### Some Neck Shapes
+### Common Neck Shapes
 
  - 6L  - Fender Style - left in line
  - 6R - for left-handed
@@ -176,9 +176,8 @@ High Jum­bo	 | wide	   | very high | many Ibanez
  - approx. 10mm (25/64" = 9,9mm)  - "Sperzel Style",
  - approx. 10mm  (13/32" = 10,3mm) - "Planet Waves Style"
  - approx. 10mm on top and 8,7mm bottom -  "Schaller/Grover/Gotoh Slyle"
-
-> [rockinger.com](http://www.rockinger.com/index.php?cat=WG181&product=09211-09213-09214) - the small holes can be enlarged with a sunk.    
-> [musik-produktiv.de](http://www.musik-produktiv.de/goeldo-adapter-huelsen-fuer-mechaniken.html) -  adapter bushing used for retrofit to big holes.
+ 
+Small holes can be enlarged with a sunk. Big holes can be retrofited by adapter bushings.
 
 ----------
 
