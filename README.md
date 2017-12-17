@@ -63,7 +63,6 @@ Body - [Form](#guitar-bodies) | + | ++++
 Body - [Bridge](#bridges) Form and Material | + | ++
 Electronics - [Pickup Properties](#pickup-properties) | ++++ | -
 Electronics - [Wiring Options](#electronics-wiring-options) | +++ | -
-Electronics - [Pot and Cap Values](#potentiometer-and-capacitor-values) | +++ | -
 [Strings](#strings) | ++ | ++
 [Scale Length](#scale-length) | + | +
 [Woods](#woods) (Body, neck and fretboard) | + | + |
