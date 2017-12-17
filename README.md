@@ -60,8 +60,7 @@ Component   | Sound* | Playability*
 Neck - [Neck Profile](#neck-profile) | + | ++++
 Neck - [Neck Nut Width and Nut Slot Spacing](#neck-nut-width-and-nut-slot-spacing) | - | +++
 Body - [Form](#guitar-bodies) | + | ++++
-Body - [Bridge](#bridges) Form | + | +++
-Body - [Bridge](#bridges) Material| + | -
+Body - [Bridge](#bridges) Form and Material | + | ++
 Electronics - [Pickup Properties](#pickup-properties) | ++++ | -
 Electronics - [Wiring Options](#electronics-wiring-options) | +++ | -
 Electronics - [Pot and Cap Values](#potentiometer-and-capacitor-values) | +++ | -
