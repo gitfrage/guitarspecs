@@ -494,6 +494,7 @@ Shorter scale length sound characteristics:
  - more sustain and longer decay
 
 ## Woods
+![strings](./images/esche.png)
 
 Woods       | Sound¹    | Weight²| Used for³| Looks
 ------------|---------- |--------|----------|-------------------
