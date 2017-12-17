@@ -23,11 +23,11 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
   - [Tuner Holes](#tuner-holes)
 
 - [Guitar Bodies](#guitar-bodies)
-	- [Pickup Routing](#pickup-routing)
     - [Bridge Routing](#bridge-routing)
         - [Flat Mount Hardtail Routing](#flat-mount-hardtail-routing)
         - [Tremolo Routing](#tremolo-routing)
         - [Tune-O-Matic Gibson Style Routing](#tune-o-matic-gibson-style-routing)
+    - [Pickup Routing](#pickup-routing)
 
 - [Hardware](#hardware)
   - [Tuning Machines](#tuning-machines)
@@ -189,27 +189,6 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 
 > [music.stackexchange.com](http://music.stackexchange.com/questions/14019/how-much-does-an-electric-guitars-body-physics-affect-the-tone-playability-et) - how much does electric guitar's body physics affect the tone and playability.
 
-### Pickup Routing
-
-Description  | Av. length/width/depth*
---------------|------------------------------------
-Single Coils Strat     	  | mm (")
-Humbucker 		  	  	 | mm (")
-Wide Humbucker** 		 | mm (")
-Mini Humbucker 		   | mm (")
-Tele Neck  		      | mm (")
-Tele Bridge  		  	 | mm (")
-P90  		          	 | mm (")
-Lipstick Tube  		   | mm (")
-Jazzmaster              | mm (")
-
-*Exact specifications can be found on the manufacturer's website.
-
-**Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker" can be used for guitars with larger sting distance with standard "Humbucker Routing"
-
-> Seymourduncan.com says:
-> "A quick and easy way to tell which you need is to measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Trembucker. If it’s less than two inches or 50mm, go for a humbucker."
-
 
 ### Bridge Routing
 
@@ -269,6 +248,29 @@ Moreover, there are other rare variants:
  - Kahler®
 
 > [callahamguitar.com](http://www.callahamguitars.com/blocks.htm) - Good overview of the Fender tremolos
+
+
+### Pickup Routing
+
+Description  | Av. length/width/depth*
+--------------|------------------------------------
+Single Coils Strat     	  | mm (")
+Humbucker 		  	  	 | mm (")
+Wide Humbucker** 		 | mm (")
+Mini Humbucker 		   | mm (")
+Tele Neck  		      | mm (")
+Tele Bridge  		  	 | mm (")
+P90  		          	 | mm (")
+Lipstick Tube  		   | mm (")
+Jazzmaster              | mm (")
+
+*Exact specifications can be found on the manufacturer's website.
+
+**Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker" can be used for guitars with larger sting distance with standard "Humbucker Routing"
+
+> Seymourduncan.com says:
+> "A quick and easy way to tell which you need is to measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Trembucker. If it’s less than two inches or 50mm, go for a humbucker."
+
 
 ----------
 
