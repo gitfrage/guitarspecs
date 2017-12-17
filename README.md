@@ -1,5 +1,5 @@
 
-## Electric Guitar Specifications
+# Electric Guitar Specifications
 
 This is a "top-down checklist" for the assembly of a solid-body electric guitar.
 It can help you to build a guitar with specific sound and playability characteristics.
@@ -10,7 +10,7 @@ It can help you to build a guitar with specific sound and playability characteri
 
 Please read [licence and the contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) before contributing.
 
-#### Table of Contents
+### Table of Contents
 
 - [Sound and Playability Influencing Factors](#sound-and-playability-influencing-factors)
 
