@@ -286,8 +286,6 @@ Tuning Machines Options:
    Larger ratio (1:18 > 1:14) allows finer adjustments.
  - Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside
 
-> [Schaller](http://guitar-parts.biz/hp290537/Machine-Heads.htm)  - useful information and technical drawing of guitar machine heads
-
 ### Bridges
 ![bridge](./images/clip11_bridge.jpg)
 
@@ -368,9 +366,6 @@ Following topics change resonant frequency and resonant peak:
 
 ![electronics wiring options](./images/clip14_switch.jpg)
 
-> [open.guitars](https://open.guitars/e-gitarren-selbstbau/elektronik/gitarrenelektronik-tonabnehmer-spulenschaltung/) - Hambucker Con­ductor/Coils switching options (german).
-
-
 Effect | Pot | Push/Pull or Mini <br> DPDT(ON/OFF/ON)* | Mini <br>DPDP(ON/ON) | Mini <br> DPDP(ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
 ------------------------- |------|------|-----|-----|-----|----
 volume                    |  y   | -/y¹ |  -  |  -  | -   | -
@@ -393,6 +388,8 @@ pickup switch             |  -   |  y   |  y  |  y  | y   | y
 '²' can be done by 4 Push/Pull pots, 4 Mini-switch (as SD "triple shot") or by 5-Way blade megaswitch
 
 '³' c-switch/varitone - Rotary switch for different pots
+
+> [open.guitars (german)](https://open.guitars/e-gitarren-selbstbau/elektronik/gitarrenelektronik-tonabnehmer-spulenschaltung/) - Hambucker Con­ductor/Coils switching options.
 
 
 ### Electronics Wiring Schemas
