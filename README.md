@@ -66,7 +66,7 @@ Electronics - [Wiring Options](#electronics-wiring-options) | +++ | -
 Electronics - [Pot and Cap Values](#potentiometer-and-capacitor-values) | +++ | -
 [Strings](#strings) | ++ | ++
 [Scale Length](#scale-length) | + | +
-[Woods](#woods) (Neck & Body) | + | + |
+[Woods](#woods) (Body, neck and fretboard) | + | + |
 
 *influence ( "-" stands for little,  "++++"  stands for very strong)
 
