@@ -243,9 +243,9 @@ Moreover, there are other rare variants:
  - Bigsby®
  - Kahler®
 
-> [callahamguitar.com](http://www.callahamguitars.com/blocks.htm) - Good overview of the Fender tremolos
+> [callahamguitar.com](http://www.callahamguitars.com/technicalinfo.htm) - technical specifications of some coustom parts.
 
-
+  
 ### Pickup Routing
 
 Description  | Av. length/width/depth*
