@@ -106,6 +106,13 @@ asymmetrisch| medium      | Wolfgang      | Modern C                  |
 
 ### Neck Nut Width and Nut Slot Spacing
 
+Kat              | Neck Nut Width            | e1/E6
+-----------------------|--------------------| -----------
+many Fenders from Japan| 41 mm (1-5/8")     | etwa 34 mm
+Standard               | 42,9 mm (1-11/16") | etwa 35 mm
+Acoustic analog        | 44,5 mm (1-3/4")   | zw. 35 mm und 37,5 mm
+Superwide (Warmoth)    | 48 mm (1-7/8")     | etwa 40 mm
+
 The real  e1 to E6 string space can be controlled not only through nut width, but also by slot spacing in the nut.  For example, 44.5 mm wide nut can have e1 to E6 distance between 35 and 37.5 mm.
 
 Category                | Neck Nut Width  |  e1/E6        | 2 strings      | e/E to edge
