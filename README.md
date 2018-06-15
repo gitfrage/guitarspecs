@@ -393,7 +393,7 @@ pickup switch             |  -   |  y   |  y  |  y  | y   | y
 
 '³' c-switch/varitone - Rotary switch for different pots
 
-> [open.guitars (german)](https://open.guitars/e-gitarren-selbstbau/elektronik/gitarrenelektronik-tonabnehmer-spulenschaltung/) - Hambucker Conductor/Coils switching options.
+> [open.guitars (german)](https://open.guitars/egitarrenbau/tonabnehmer-verdrahtung) - Hambucker Conductor/Coils switching options.
 
 
 ### Electronics Wiring Schemas
