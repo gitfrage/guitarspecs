@@ -254,17 +254,17 @@ Moreover, there are other rare variants:
   
 ### Pickup Routing
 
-Description  | Av. length/width/depth*
---------------|------------------------------------
-Single Coils Strat     	  | mm (")
-Humbucker 		  	  	 | mm (")
-Wide Humbucker** 		 | mm (")
-Mini Humbucker 		   | mm (")
-Tele Neck  		      | mm (")
-Tele Bridge  		  	 | mm (")
-P90  		          	 | mm (")
-Lipstick Tube  		   | mm (")
-Jazzmaster              | mm (")
+Description  | Av.length/width/depth* | Pickup Frames Design
+--------------|---------------| --------------
+Single Coils Strat     	  | - |
+Humbucker 		  	  	 | - |  Flat vs Curved/Arched & High(bridge) or Low(neck)
+Wide Humbucker*** 		 | - | Flat vs Curved/Arched & High(bridge) or Low(neck)
+Mini Humbucker 		   | - | 
+Tele Neck  		      | - |
+Tele Bridge  		  	 | - |
+P90  		          	 | - |
+Lipstick Tube  		   | - |
+Jazzmaster              | - |
 
 *Exact specifications can be found on the manufacturer's website like:
 > [bareknucklepickups.co.uk](https://www.bareknucklepickups.co.uk/support#dimensions) - dimensions
