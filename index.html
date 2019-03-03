@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
    <head>
@@ -18,1149 +19,1146 @@
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-71612856-4"></script>
       <script>
-         window.dataLayer = window.dataLayer || [];
-         function gtag(){dataLayer.push(arguments);}
-         gtag('js', new Date());
-         gtag('config', 'UA-71612856-4');
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-71612856-4');
       </script>
    </head>
    <body class="markdown-body">
-      <h1 id="electric-guitar-specifications">Electric Guitar Specifications</h1>
-      <p>This is a “top-down checklist” for the assembly of a solid-body electric guitar.<br>
-         It can help you to build a guitar with specific sound and playability characteristics.
-      </p>
-      <p><img src="./images/Sound-and-Playability.jpg" alt="Electric Guitar Specifications"></p>
-      <p><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></p>
-      <p>Please read <a href="https://github.com/gitfrage/guitarspecs/blob/master/contributing.md">licence and the contribution guidelines</a> before contributing.</p>
-      <h2 id="table-of-contents">Table of Contents</h2>
-      <ul>
-         <li>
-            <p><a href="#sound-and-playability-influencing-factors">Sound and Playability Influencing Factors</a></p>
-         </li>
-         <li>
-            <p><a href="#guitar-necks">Guitar Necks</a></p>
-            <ul>
-               <li><a href="#neck-profile">Neck Profile</a></li>
-               <li><a href="#neck-nut-width-and-nut-slot-spacing">Neck Nut Width and Nut Slot Spacing</a></li>
-               <li><a href="#neck-heel-width-and-mounting">Neck Heel Width and Mounting</a></li>
-               <li><a href="#fretboards-radius">Fretboard’s Radius</a></li>
-               <li><a href="#fret-sizes">Fret Sizes</a></li>
-               <li><a href="#common-neck-head-shapes">Common Neck Head Shapes</a></li>
-               <li><a href="#tuner-holes">Tuner Holes</a></li>
-            </ul>
-         </li>
-         <li>
-            <p><a href="#guitar-bodies">Guitar Bodies</a></p>
-            <ul>
-               <li>
-                  <a href="#bridge-routing">Bridge Routing</a>
-                  <ul>
-                     <li><a href="#flat-mount-hardtail-routing">Flat Mount Hardtail Routing</a></li>
-                     <li><a href="#tremolo-routing">Tremolo Routing</a></li>
-                     <li><a href="#tune-o-matic-gibson-style-routing">Tune-O-Matic Gibson Style Routing</a></li>
-                  </ul>
-               </li>
-               <li><a href="#pickup-routing">Pickup Routing</a></li>
-            </ul>
-         </li>
-         <li>
-            <p><a href="#hardware">Hardware</a></p>
-            <ul>
-               <li><a href="#tuning-machines">Tuning Machines</a></li>
-               <li><a href="#bridges">Bridges</a></li>
-               <li><a href="#knob-styles">Knob Styles</a></li>
-               <li><a href="#more-parts-to-complete">More Parts To Complete</a></li>
-            </ul>
-         </li>
-         <li>
-            <p><a href="#electronics">Electronics</a></p>
-            <ul>
-               <li><a href="#pickup-properties">Pickup Properties</a></li>
-               <li><a href="#electronics-wiring-options">Electronics Wiring Options</a></li>
-               <li><a href="#potentiometer-and-capacitor-values">Potentiometer and Capacitor Values</a></li>
-               <li><a href="#volume-and-tone-potentiometer-options">Volume and Tone Potentiometer Options</a></li>
-               <li><a href="#active-pickups-electronics">Active Pickups Electronic</a></li>
-            </ul>
-         </li>
-         <li>
-            <p><a href="#strings">Strings</a></p>
-         </li>
-         <li>
-            <p><a href="#scale-length">Scale Length</a></p>
-         </li>
-         <li>
-            <p><a href="#woods">Woods</a></p>
-         </li>
-      </ul>
-      <hr>
-      <h2 id="sound-and-playability-influencing-factors">Sound and Playability Influencing Factors</h2>
-      <p><img src="./images/clip8_general-pickup.jpg" alt="overview"></p>
-      <table>
-         <thead>
-            <tr>
-               <th>Component</th>
-               <th>Sound*</th>
-               <th>Playability*</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>Neck - <a href="#neck-profile">Neck Profile</a></td>
-               <td>+</td>
-               <td>++++</td>
-            </tr>
-            <tr>
-               <td>Neck - <a href="#neck-nut-width-and-nut-slot-spacing">Neck Nut Width and Nut Slot Spacing</a></td>
-               <td>-</td>
-               <td>+++</td>
-            </tr>
-            <tr>
-               <td>Body - <a href="#guitar-bodies">Form</a></td>
-               <td>+</td>
-               <td>++++</td>
-            </tr>
-            <tr>
-               <td>Body - <a href="#bridges">Bridge</a> Form and Material</td>
-               <td>+</td>
-               <td>++</td>
-            </tr>
-            <tr>
-               <td>Electronics - <a href="#pickup-properties">Pickup Properties</a></td>
-               <td>++++</td>
-               <td>-</td>
-            </tr>
-            <tr>
-               <td>Electronics - <a href="#electronics-wiring-options">Wiring Options</a></td>
-               <td>+++</td>
-               <td>-</td>
-            </tr>
-            <tr>
-               <td><a href="#strings">Strings</a></td>
-               <td>++</td>
-               <td>++</td>
-            </tr>
-            <tr>
-               <td><a href="#scale-length">Scale Length</a></td>
-               <td>+</td>
-               <td>+</td>
-            </tr>
-            <tr>
-               <td><a href="#woods">Woods</a> (Body, neck and fretboard)</td>
-               <td>+</td>
-               <td>+</td>
-            </tr>
-         </tbody>
-      </table>
-      <p>*influence ( “-” stands for little,  “++++”  stands for very strong)</p>
-      <p>For example, for building a solid-body ‘jazz-sounding’ guitar you have to choose (top down by importance):</p>
-      <ul>
-         <li>vintage or jazz pickup with convenient po­ten­tiomet­er and capacitor values</li>
-         <li>flatwound strings</li>
-         <li>massive neck, hollow body with wood such as mahagony</li>
-         <li>shorter scale length</li>
-      </ul>
-      <hr>
-      <h2 id="guitar-necks">Guitar Necks</h2>
-      <p><img src="./images/clip2_neck.jpg" alt="Guitar Necks"></p>
-      <p>Neck thickness, neck width, neck contour and fret wire size affect playability and are a matter of personal taste. Important for good playability is balanced interaction of these components. Thicker neck often creates warmer tone.</p>
-      <blockquote>
-         <p><a href="http://www.usacustomguitars.com/necks">usacustomguitars.com/necks</a> -  many neck shape and thickness combinations<br>
-            <a href="https://musikraft.com/cmspage.php?page_id=18">musikraft.com</a> - additional information for understanding of neck features.
-         </p>
-      </blockquote>
-      <h3 id="neck-profile">Neck Profile</h3>
-      <p>Neck Profile is the combination of contour (C, U, V , asymmetrc) and thickness (.0750" - 1")</p>
-      <table>
-         <thead>
-            <tr>
-               <th>Contour</th>
-               <th>Thickness</th>
-               <th>Warmoth*</th>
-               <th>Fender*</th>
-               <th>Gibson*</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>D</td>
-               <td>thin</td>
-               <td>Wizard</td>
-               <td>D Shape</td>
-               <td></td>
-            </tr>
-            <tr>
-               <td>C</td>
-               <td>thin/medium</td>
-               <td>Standard Thin</td>
-               <td>C Shape (AM Std)</td>
-               <td>Traditional C</td>
-            </tr>
-            <tr>
-               <td>C</td>
-               <td>medium</td>
-               <td>59 Roundback</td>
-               <td>Deep C</td>
-               <td>Round C (1959 LP)</td>
-            </tr>
-            <tr>
-               <td>U</td>
-               <td>thick</td>
-               <td>Fatback</td>
-               <td>U Shape  (Vintage Tele)</td>
-               <td></td>
-            </tr>
-            <tr>
-               <td>V</td>
-               <td>thick</td>
-               <td>Boatneck</td>
-               <td>V Shape (Vintage 52 Tele)</td>
-               <td></td>
-            </tr>
-            <tr>
-               <td>asymmetrisch</td>
-               <td>medium</td>
-               <td>Wolfgang</td>
-               <td>Modern C</td>
-               <td></td>
-            </tr>
-         </tbody>
-      </table>
-      <blockquote>
-         <p><a href="http://www.warmoth.com/Guitar/Necks/BackContours.aspx">*warmoth</a> - Warmoth Neck Profiles<br>
-            <a href="http://shop.fender.com/de-DE/electric-guitars/telecaster/">*fender</a> - see “NECK SHAPE” Filter<br>
-            <a href="http://forum.gibson.com/index.php?/topic/74036-gibson-neck-profiles">*gibson forum</a> - Gibson Neck Profiles
-         </p>
-      </blockquote>
-      <h3 id="neck-nut-width-and-nut-slot-spacing">Neck Nut Width and Nut Slot Spacing</h3>
-      <table>
-         <thead>
-            <tr>
-               <th>Kat</th>
-               <th>Neck Nut Width</th>
-               <th>e1/E6</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>many Fenders from Japan</td>
-               <td>41 mm (1-5/8")</td>
-               <td>etwa 34 mm</td>
-            </tr>
-            <tr>
-               <td>Standard</td>
-               <td>42,9 mm (1-11/16")</td>
-               <td>etwa 35 mm</td>
-            </tr>
-            <tr>
-               <td>Acoustic analog</td>
-               <td>44,5 mm (1-3/4")</td>
-               <td>zw. 35 mm und 37,5 mm</td>
-            </tr>
-            <tr>
-               <td>Superwide (Warmoth)</td>
-               <td>48 mm (1-7/8")</td>
-               <td>etwa 40 mm</td>
-            </tr>
-         </tbody>
-      </table>
-      <p>The real  e1 to E6 string space can be controlled not only through nut width, but also by slot spacing in the nut.  For example, 44.5 mm wide nut can have e1 to E6 distance between 35 and 37.5 mm.</p>
-      <table>
-         <thead>
-            <tr>
-               <th>Category</th>
-               <th>Neck Nut Width</th>
-               <th>e1/E6</th>
-               <th>2 strings</th>
-               <th>e/E to edge</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>e/E analog 43 mm neck</td>
-               <td>44,5 mm (1-3/4")</td>
-               <td>35 mm</td>
-               <td>7 mm</td>
-               <td>2 x 4.75 mm</td>
-            </tr>
-            <tr>
-               <td>Ideal solution</td>
-               <td>44,5 mm (1-3/4")</td>
-               <td>36.5 mm</td>
-               <td>7.3 mm</td>
-               <td>2 x 4 mm</td>
-            </tr>
-            <tr>
-               <td>edge analog 43 mm neck</td>
-               <td>44,5 mm (1-3/4")</td>
-               <td>37.5 mm</td>
-               <td>7.5 mm</td>
-               <td>2 x 3.5 mm</td>
-            </tr>
-         </tbody>
-      </table>
-      <blockquote>
-         <p><a href="http://www.graphtech.com/products/brands/tusq/tusq-guitar-nuts">graphtech.com </a> - sizing guide and pre-slotted nuts</p>
-      </blockquote>
-      <h3 id="neck-heel-width-and-mounting">Neck Heel Width and Mounting</h3>
-      <p>Most guitar parts manufacturer adopted Fender’s® neck heel and neck pocket dimensions:</p>
-      <ul>
-         <li>56 mm (2-3/16") - Width</li>
-         <li>76 mm (3") - Length</li>
-         <li>16 mm (5/8") - Pocket Depth</li>
-      </ul>
-      <p>These dimensions are not a standard. Only careful measurement ensures that your parts will be compatible.</p>
-      <p>Strat necks have a rounded base to their heel and Tele necks have a squared-off base to their heel, which makes it difficult to interchange the two types of necks across various bodies.</p>
-      <p><img src="./images/neck-heel-strat-vs-tele.jpg" alt="neck-heel-strat-vs-tele"></p>
-      <p>Standard Fender heel mounting is done with 4-Bolt Holes - 1/8" (3mm) diameter (spread of 2" x 1-1/2").</p>
-      <h3 id="fretboards-radius">Fretboard’s Radius</h3>
-      <p>Smaller radius means a more rounded shape.</p>
-      <ul>
-         <li>7-1/4"  - “Vintage” Fender®</li>
-         <li>9-1/2" - “Modern” Fender®</li>
-         <li>10" - Gibson®/PRS®</li>
-         <li>12" - Ibanez®</li>
-         <li>16" - Jackson®</li>
-         <li>compound (10" - 16") - Warmoth® and others</li>
-      </ul>
-      <blockquote>
-         <p><a href="https://www.youtube.com/watch?v=-yiBbIzGjW8">youtube.com</a> - understring radius gauges - video demonstration of three different gauges used for guitar setup and fretwork: standard, notched and understring.</p>
-      </blockquote>
-      <h3 id="fret-sizes">Fret Sizes</h3>
-      <table>
-         <thead>
-            <tr>
-               <th>Title</th>
-               <th>Width</th>
-               <th>Height</th>
-               <th>Example</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>Small</td>
-               <td>narrow</td>
-               <td>low</td>
-               <td>vintage Fender</td>
-            </tr>
-            <tr>
-               <td>Me­di­um</td>
-               <td>narrow</td>
-               <td>high</td>
-               <td>many Martins</td>
-            </tr>
-            <tr>
-               <td>Medium Jumbo</td>
-               <td>wide</td>
-               <td>low</td>
-               <td>many Gibsons</td>
-            </tr>
-            <tr>
-               <td>Jum­bo</td>
-               <td>wide</td>
-               <td>high</td>
-               <td>moderne Fender</td>
-            </tr>
-            <tr>
-               <td>High Jum­bo</td>
-               <td>wide</td>
-               <td>very high</td>
-               <td>many Ibanez</td>
-            </tr>
-         </tbody>
-      </table>
-      <blockquote>
-         <p><a href="http://www.lutherie.net/fret.chart.html">lutherie.net</a> - provides an excellent manufacturer/sizes overview.</p>
-      </blockquote>
-      <h3 id="common-neck-head-shapes">Common Neck Head Shapes</h3>
-      <ul>
-         <li>6L  - Fender Style - left in line</li>
-         <li>6R - for left-handed</li>
-         <li>3L/3R  - “Gobson Stype”</li>
-         <li>4L/2R  - “Musicman Style”</li>
-      </ul>
-      <h3 id="tuner-holes">Tuner Holes</h3>
-      <ul>
-         <li>approx. 8,7mm (11/32") - “Vintage Fender Style”</li>
-         <li>approx. 10mm (25/64" = 9,9mm)  - “Sperzel Style”,</li>
-         <li>approx. 10mm  (13/32" = 10,3mm) - “Planet Waves Style”</li>
-         <li>approx. 10mm on top and 8,7mm bottom -  “Schaller/Grover/Gotoh Slyle”</li>
-      </ul>
-      <p>Small holes can be enlarged with a sunk. Big holes can be retrofited by adapter bushings.</p>
-      <hr>
-      <h2 id="guitar-bodies">Guitar Bodies</h2>
-      <p><img src="./images/clip1_body.jpg" alt="Guitar Bodies"></p>
-      <p>The sound of electric guitar depends mainly on the vibration behavior of the string itself and the reproduction characteristics of the pickup. The vibration behavior of the string depends (very little) on wood. The body itself is very thick compared to the neck, that is why the body wood type and form have very limited influence on the sound of electric guitar.</p>
-      <blockquote>
-         <p><a href="http://music.stackexchange.com/questions/14019/how-much-does-an-electric-guitars-body-physics-affect-the-tone-playability-et">music.stackexchange.com</a> - how much does electric guitar’s body physics affect the tone and playability.</p>
-      </blockquote>
-      <h3 id="bridge-routing">Bridge Routing</h3>
-      <h4 id="flat-mount-hardtail-routing">Flat Mount Hardtail Routing</h4>
-      <pre><code> Flat Mount Hardtail:    Vintage Tele:       Standard Tele:       Schaller:
- ...o.o.o.o.o.o...      ..o...o...o...o..   ...o.o.o.o.o.o...
- ..o.....o.....o..      ...o.o.o.o.o.o...   ..o.....o.....o..   ...o....o....o...
+      <h1 id="electric-guitar-specifications-">Electric Guitar Specifications <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a></h1>
+<p>This is a “top-down checklist” for the assembly of a solid-body electric guitar.<br>
+It can help you to build a guitar with specific sound and playability characteristics. Please read <a href="https://github.com/gitfrage/guitarspecs/blob/master/contributing.md">licence and the contribution guidelines</a> before contributing.</p>
+<p><img src="./images/Sound-and-Playability.jpg" alt="Electric Guitar Specifications"></p>
+<h2 id="table-of-contents">Table of Contents</h2>
+<ul>
+<li>
+<p><a href="#sound-and-playability-influencing-factors">Sound and Playability Influencing Factors</a></p>
+</li>
+<li>
+<p><a href="#guitar-necks">Guitar Necks</a></p>
+<ul>
+<li><a href="#neck-profile">Neck Profile</a></li>
+<li><a href="#neck-nut-width-and-nut-slot-spacing">Neck Nut Width and Nut Slot Spacing</a></li>
+<li><a href="#neck-heel-width-and-mounting">Neck Heel Width and Mounting</a></li>
+<li><a href="#fretboards-radius">Fretboard’s Radius</a></li>
+<li><a href="#fret-sizes">Fret Sizes</a></li>
+<li><a href="#common-neck-head-shapes">Common Neck Head Shapes</a></li>
+<li><a href="#tuner-holes">Tuner Holes</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#guitar-bodies">Guitar Bodies</a></p>
+<ul>
+<li><a href="#bridge-routing">Bridge Routing</a>
+<ul>
+<li><a href="#flat-mount-hardtail-routing">Flat Mount Hardtail Routing</a></li>
+<li><a href="#tremolo-routing">Tremolo Routing</a></li>
+<li><a href="#tune-o-matic-gibson-style-routing">Tune-O-Matic Gibson Style Routing</a></li>
+</ul>
+</li>
+<li><a href="#pickup-routing">Pickup Routing</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#hardware">Hardware</a></p>
+<ul>
+<li><a href="#tuning-machines">Tuning Machines</a></li>
+<li><a href="#bridges">Bridges</a></li>
+<li><a href="#knob-styles">Knob Styles</a></li>
+<li><a href="#more-parts-to-complete">More Parts To Complete</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#electronics">Electronics</a></p>
+<ul>
+<li><a href="#pickup-properties">Pickup Properties</a></li>
+<li><a href="#electronics-wiring-options">Electronics Wiring Options</a></li>
+<li><a href="#potentiometer-and-capacitor-values">Potentiometer and Capacitor Values</a></li>
+<li><a href="#volume-and-tone-potentiometer-options">Volume and Tone Potentiometer Options</a></li>
+<li><a href="#active-pickups-electronics">Active Pickups Electronic</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#strings">Strings</a></p>
+</li>
+<li>
+<p><a href="#scale-length">Scale Length</a></p>
+</li>
+<li>
+<p><a href="#woods">Woods</a></p>
+</li>
+</ul>
+<hr>
+<h2 id="sound-and-playability-influencing-factors">Sound and Playability Influencing Factors</h2>
+<p><img src="./images/clip8_general-pickup.jpg" alt="overview"></p>
+
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Sound*</th>
+<th>Playability*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Neck - <a href="#neck-profile">Neck Profile</a></td>
+<td>+</td>
+<td>++++</td>
+</tr>
+<tr>
+<td>Neck - <a href="#neck-nut-width-and-nut-slot-spacing">Neck Nut Width and Nut Slot Spacing</a></td>
+<td>-</td>
+<td>+++</td>
+</tr>
+<tr>
+<td>Body - <a href="#guitar-bodies">Form</a></td>
+<td>+</td>
+<td>++++</td>
+</tr>
+<tr>
+<td>Body - <a href="#bridges">Bridge</a> Form and Material</td>
+<td>+</td>
+<td>++</td>
+</tr>
+<tr>
+<td>Electronics - <a href="#pickup-properties">Pickup Properties</a></td>
+<td>++++</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Electronics - <a href="#electronics-wiring-options">Wiring Options</a></td>
+<td>+++</td>
+<td>-</td>
+</tr>
+<tr>
+<td><a href="#strings">Strings</a></td>
+<td>++</td>
+<td>++</td>
+</tr>
+<tr>
+<td><a href="#scale-length">Scale Length</a></td>
+<td>+</td>
+<td>+</td>
+</tr>
+<tr>
+<td><a href="#woods">Woods</a> (Body, neck and fretboard)</td>
+<td>+</td>
+<td>+</td>
+</tr>
+</tbody>
+</table><p>*influence ( “-” stands for little,  “++++”  stands for very strong)</p>
+<p>For example, for building a solid-body ‘jazz-sounding’ guitar you have to choose (top down by importance):</p>
+<ul>
+<li>vintage or jazz pickup with convenient po­ten­tiomet­er and capacitor values</li>
+<li>flatwound strings</li>
+<li>massive neck, hollow body with wood such as mahagony</li>
+<li>shorter scale length</li>
+</ul>
+<hr>
+<h2 id="guitar-necks">Guitar Necks</h2>
+<p><img src="./images/clip2_neck.jpg" alt="Guitar Necks"></p>
+<p>Neck thickness, neck width, neck contour and fret wire size affect playability and are a matter of personal taste. Important for good playability is balanced interaction of these components. Thicker neck often creates warmer tone.</p>
+<blockquote>
+<p><a href="http://www.usacustomguitars.com/necks">usacustomguitars.com/necks</a> -  many neck shape and thickness combinations<br>
+<a href="https://musikraft.com/cmspage.php?page_id=18">musikraft.com</a> - additional information for understanding of neck features.</p>
+</blockquote>
+<h3 id="neck-profile">Neck Profile</h3>
+<p>Neck Profile is the combination of contour (C, U, V , asymmetrc) and thickness (.0750" - 1")</p>
+
+<table>
+<thead>
+<tr>
+<th>Contour</th>
+<th>Thickness</th>
+<th>Warmoth*</th>
+<th>Fender*</th>
+<th>Gibson*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>D</td>
+<td>thin</td>
+<td>Wizard</td>
+<td>D Shape</td>
+<td></td>
+</tr>
+<tr>
+<td>C</td>
+<td>thin/medium</td>
+<td>Standard Thin</td>
+<td>C Shape (AM Std)</td>
+<td>Traditional C</td>
+</tr>
+<tr>
+<td>C</td>
+<td>medium</td>
+<td>59 Roundback</td>
+<td>Deep C</td>
+<td>Round C (1959 LP)</td>
+</tr>
+<tr>
+<td>U</td>
+<td>thick</td>
+<td>Fatback</td>
+<td>U Shape  (Vintage Tele)</td>
+<td></td>
+</tr>
+<tr>
+<td>V</td>
+<td>thick</td>
+<td>Boatneck</td>
+<td>V Shape (Vintage 52 Tele)</td>
+<td></td>
+</tr>
+<tr>
+<td>asymmetrisch</td>
+<td>medium</td>
+<td>Wolfgang</td>
+<td>Modern C</td>
+<td></td>
+</tr>
+</tbody>
+</table><blockquote>
+<p><a href="http://www.warmoth.com/Guitar/Necks/BackContours.aspx">*warmoth</a> - Warmoth Neck Profiles<br>
+<a href="http://shop.fender.com/de-DE/electric-guitars/telecaster/">*fender</a> - see “NECK SHAPE” Filter<br>
+<a href="http://forum.gibson.com/index.php?/topic/74036-gibson-neck-profiles">*gibson forum</a> - Gibson Neck Profiles</p>
+</blockquote>
+<h3 id="neck-nut-width-and-nut-slot-spacing">Neck Nut Width and Nut Slot Spacing</h3>
+
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Neck Nut Width</th>
+<th>e1/E6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>many Fenders from Japan</td>
+<td>41 mm (1-5/8")</td>
+<td>approx. 34 mm</td>
+</tr>
+<tr>
+<td>Standard</td>
+<td>42,9 mm (1-11/16")</td>
+<td>approx. 35 mm</td>
+</tr>
+<tr>
+<td>Acoustic analog</td>
+<td>44,5 mm (1-3/4")</td>
+<td>35 mm till 37,5 mm</td>
+</tr>
+<tr>
+<td>Superwide (Warmoth)</td>
+<td>48 mm (1-7/8")</td>
+<td>approx. 40 mm</td>
+</tr>
+</tbody>
+</table><p>The real  e1 to E6 string space can be controlled not only through nut width, but also by slot spacing in the nut.  For example, 44.5 mm wide nut can have e1 to E6 distance between 35 and 37.5 mm.</p>
+
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Neck Nut Width</th>
+<th>e1/E6</th>
+<th>2 strings</th>
+<th>e/E to edge</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>e/E analog 43 mm neck</td>
+<td>44,5 mm (1-3/4")</td>
+<td>35 mm</td>
+<td>7 mm</td>
+<td>2 x 4.75 mm</td>
+</tr>
+<tr>
+<td>Ideal solution</td>
+<td>44,5 mm (1-3/4")</td>
+<td>36.5 mm</td>
+<td>7.3 mm</td>
+<td>2 x 4 mm</td>
+</tr>
+<tr>
+<td>edge analog 43 mm neck</td>
+<td>44,5 mm (1-3/4")</td>
+<td>37.5 mm</td>
+<td>7.5 mm</td>
+<td>2 x 3.5 mm</td>
+</tr>
+</tbody>
+</table><blockquote>
+<p><a href="http://www.graphtech.com/products/brands/tusq/tusq-guitar-nuts">graphtech.com </a> - sizing guide and pre-slotted nuts</p>
+</blockquote>
+<h3 id="neck-heel-width-and-mounting">Neck Heel Width and Mounting</h3>
+<p>Most guitar parts manufacturer adopted Fender’s® neck heel and neck pocket dimensions:</p>
+<ul>
+<li>56 mm (2-3/16") - Width</li>
+<li>76 mm (3") - Length</li>
+<li>16 mm (5/8") - Pocket Depth</li>
+</ul>
+<p>These dimensions are not a standard. Only careful measurement ensures that your parts will be compatible.</p>
+<p>Strat necks have a rounded base to their heel and Tele necks have a squared-off base to their heel, which makes it difficult to interchange the two types of necks across various bodies.</p>
+<p><img src="./images/neck-heel-strat-vs-tele.jpg" alt="neck-heel-strat-vs-tele"></p>
+<p>Standard Fender heel mounting is done with 4-Bolt Holes - 1/8" (3mm) diameter (spread of 2" x 1-1/2").</p>
+<h3 id="fretboards-radius">Fretboard’s Radius</h3>
+<p>Smaller radius means a more rounded shape.</p>
+<ul>
+<li>7-1/4"  - “Vintage” Fender®</li>
+<li>9-1/2" - “Modern” Fender®</li>
+<li>10" - Gibson®/PRS®</li>
+<li>12" - Ibanez®</li>
+<li>16" - Jackson®</li>
+<li>compound (10" - 16") - Warmoth® and others</li>
+</ul>
+<blockquote>
+<p><a href="https://www.youtube.com/watch?v=-yiBbIzGjW8">youtube.com</a> - understring radius gauges - video demonstration of three different gauges used for guitar setup and fretwork: standard, notched and understring.</p>
+</blockquote>
+<h3 id="fret-sizes">Fret Sizes</h3>
+
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Width</th>
+<th>Height</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Small</td>
+<td>narrow</td>
+<td>low</td>
+<td>vintage Fender</td>
+</tr>
+<tr>
+<td>Me­di­um</td>
+<td>narrow</td>
+<td>high</td>
+<td>many Martins</td>
+</tr>
+<tr>
+<td>Medium Jumbo</td>
+<td>wide</td>
+<td>low</td>
+<td>many Gibsons</td>
+</tr>
+<tr>
+<td>Jum­bo</td>
+<td>wide</td>
+<td>high</td>
+<td>moderne Fender</td>
+</tr>
+<tr>
+<td>High Jum­bo</td>
+<td>wide</td>
+<td>very high</td>
+<td>many Ibanez</td>
+</tr>
+</tbody>
+</table><blockquote>
+<p><a href="http://www.lutherie.net/fret.chart.html">lutherie.net</a> - provides an excellent manufacturer/sizes overview.</p>
+</blockquote>
+<h3 id="common-neck-head-shapes">Common Neck Head Shapes</h3>
+<ul>
+<li>6L  - Fender Style - left in line</li>
+<li>6R - for left-handed</li>
+<li>3L/3R  - “Gobson Stype”</li>
+<li>4L/2R  - “Musicman Style”</li>
+</ul>
+<h3 id="tuner-holes">Tuner Holes</h3>
+<ul>
+<li>approx. 8,7mm (11/32") - “Vintage Fender Style”</li>
+<li>approx. 10mm (25/64" = 9,9mm)  - “Sperzel Style”,</li>
+<li>approx. 10mm  (13/32" = 10,3mm) - “Planet Waves Style”</li>
+<li>approx. 10mm on top and 8,7mm bottom -  “Schaller/Grover/Gotoh Slyle”</li>
+</ul>
+<p>Small holes can be enlarged with a sunk. Big holes can be retrofited by adapter bushings.</p>
+<hr>
+<h2 id="guitar-bodies">Guitar Bodies</h2>
+<p><img src="./images/clip1_body.jpg" alt="Guitar Bodies"></p>
+<p>The sound of electric guitar depends mainly on the vibration behavior of the string itself and the reproduction characteristics of the pickup. The vibration behavior of the string depends (very little) on wood. The body itself is very thick compared to the neck, that is why the body wood type and form have very limited influence on the sound of electric guitar.</p>
+<blockquote>
+<p><a href="http://music.stackexchange.com/questions/14019/how-much-does-an-electric-guitars-body-physics-affect-the-tone-playability-et">music.stackexchange.com</a> - how much does electric guitar’s body physics affect the tone and playability.</p>
+</blockquote>
+<h3 id="bridge-routing">Bridge Routing</h3>
+<h4 id="flat-mount-hardtail-routing">Flat Mount Hardtail Routing</h4>
+<pre><code>     "Strat"                "Tele"                "Tele"              "Schaller"
+Vintage &amp; Standard          Vintage               Standard
+...o.o.o.o.o.o...       ..o...o...o...o..     ...o.o.o.o.o.o...
+..o.....o.....o..       ...o.o.o.o.o.o...     ..o.....o.....o..    ...o....o....o...
 </code></pre>
-      <table>
-         <thead>
-            <tr>
-               <th>Model</th>
-               <th>E/e</th>
-               <th>Sites holes Ø</th>
-               <th>Sites holes dist</th>
-               <th>holes</th>
-               <th>Bridge hole Ø</th>
-               <th>Bridgehole dist</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>Vintage Strat</td>
-               <td>57 mm (2 1/4")</td>
-               <td>3.18 mm (0.125")</td>
-               <td>10.5 mm (0.413")</td>
-               <td>3</td>
-               <td>3 mm (1/8")</td>
-               <td>21 mm (.827")</td>
-            </tr>
-            <tr>
-               <td>Vintage Narrow Strat</td>
-               <td>54 mm (2 1/8")</td>
-               <td>4.78 mm (0.188")</td>
-               <td>10.5 mm (0.413")</td>
-               <td>3</td>
-               <td>3 mm (1/8")</td>
-               <td>21 mm (.827")</td>
-            </tr>
-            <tr>
-               <td>Standard Strat</td>
-               <td>52.83 mm (2.08")</td>
-               <td>3.18 mm (0.125")</td>
-               <td>11.3 mm (.446")</td>
-               <td>3</td>
-               <td>3 mm (1/8")</td>
-               <td>22.6 mm (.89")</td>
-            </tr>
-            <tr>
-               <td>Vintage Tele</td>
-               <td>54 mm (2 1/8")</td>
-               <td>3.18 mm (0.125")</td>
-               <td>10.9 mm (.429")</td>
-               <td>4</td>
-               <td>3 mm (1/8")</td>
-               <td>21.6 mm (.85")</td>
-            </tr>
-            <tr>
-               <td>Standard Tele</td>
-               <td>54 mm (2 1/8")</td>
-               <td>3.18 mm (0.125")</td>
-               <td>10.5 mm (0.413")</td>
-               <td>3</td>
-               <td>3 mm (1/8")</td>
-               <td>32.4 mm (1.267")</td>
-            </tr>
-            <tr>
-               <td>Schaller 47X</td>
-               <td>51 mm - 55,5 mm</td>
-               <td>-</td>
-               <td>-</td>
-               <td>3</td>
-               <td>3.18mm (0.125")</td>
-               <td>-</td>
-            </tr>
-         </tbody>
-      </table>
-      <h4 id="tremolo-routing">Tremolo Routing</h4>
-      <pre><code>"Vintage":                  "Standard":
+
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>E/e</th>
+<th>Sites holes Ø</th>
+<th>Sites holes dist</th>
+<th>holes</th>
+<th>Bridge hole Ø</th>
+<th>Bridgehole dist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Strat Vintage</td>
+<td>57 mm (2 1/4")</td>
+<td>3.18 mm (0.125")</td>
+<td>10.5 mm (0.413")</td>
+<td>3</td>
+<td>3 mm (1/8")</td>
+<td>21 mm (.827")</td>
+</tr>
+<tr>
+<td>Strat Vintage Narrow</td>
+<td>54 mm (2 1/8")</td>
+<td>4.78 mm (0.188")</td>
+<td>10.5 mm (0.413")</td>
+<td>3</td>
+<td>3 mm (1/8")</td>
+<td>21 mm (.827")</td>
+</tr>
+<tr>
+<td>Strat Standard</td>
+<td>52.83 mm (2.08")</td>
+<td>3.18 mm (0.125")</td>
+<td>11.3 mm (.446")</td>
+<td>3</td>
+<td>3 mm (1/8")</td>
+<td>22.6 mm (.89")</td>
+</tr>
+<tr>
+<td>Tele Vintage</td>
+<td>54 mm (2 1/8")</td>
+<td>3.18 mm (0.125")</td>
+<td>10.9 mm (.429")</td>
+<td>4</td>
+<td>3 mm (1/8")</td>
+<td>21.6 mm (.85")</td>
+</tr>
+<tr>
+<td>Tele Standard</td>
+<td>54 mm (2 1/8")</td>
+<td>3.18 mm (0.125")</td>
+<td>10.5 mm (0.413")</td>
+<td>3</td>
+<td>3 mm (1/8")</td>
+<td>32.4 mm (1.267")</td>
+</tr>
+<tr>
+<td>Schaller 47X</td>
+<td>51 mm - 55,5 mm</td>
+<td>-</td>
+<td>-</td>
+<td>3</td>
+<td>3.18mm (0.125")</td>
+<td>-</td>
+</tr>
+</tbody>
+</table><h4 id="tremolo-routing">Tremolo Routing</h4>
+<pre><code>     Vintage                     Standard
 ..o..o..o..o..o...o...      .....O.......O.....
 </code></pre>
-      <table>
-         <thead>
-            <tr>
-               <th>Model</th>
-               <th>E/e</th>
-               <th>holes</th>
-               <th>holes dist.</th>
-               <th>holes Ø</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>Mexico Strat</td>
-               <td>52,4 mm (2 1/16)</td>
-               <td>6</td>
-               <td>52,4 mm (2 1/16)</td>
-               <td>3 mm (1/8")</td>
-            </tr>
-            <tr>
-               <td>Vintage</td>
-               <td>56,36 mm (2 7/32")</td>
-               <td>6</td>
-               <td>55,9 mm (2.2")</td>
-               <td>3 mm (1/8")</td>
-            </tr>
-            <tr>
-               <td>American Standard</td>
-               <td>52,83 mm (2.08")</td>
-               <td>2</td>
-               <td>55,9 mm (2.2")</td>
-               <td>9,5 mm (.375")</td>
-            </tr>
-            <tr>
-               <td>Floyd Rose (“recessed”)</td>
-               <td>53 mm (2-3/32")</td>
-               <td>2</td>
-               <td>74 mm (2.913")</td>
-               <td>9,91 mm (.390")</td>
-            </tr>
-            <tr>
-               <td>Schaller 2000</td>
-               <td>53,5 mm</td>
-               <td>2</td>
-               <td>56 mm</td>
-               <td>10 mm</td>
-            </tr>
-            <tr>
-               <td>Schaller vintage</td>
-               <td>53,5 mm</td>
-               <td>2</td>
-               <td>74,3 mm</td>
-               <td>10 mm</td>
-            </tr>
-            <tr>
-               <td>Wilkinson (“recessed”)</td>
-               <td>54 mm (2-1/8")</td>
-               <td>2</td>
-               <td>55,9 mm (2.2")</td>
-               <td>9,7 mm (.382")</td>
-            </tr>
-         </tbody>
-      </table>
-      <h4 id="tune-o-matic-gibson-style-routing">Tune-O-Matic Gibson Style Routing</h4>
-      <pre><code>Tune-O-Matic:                       TOM "strings through the body":
-Steg         ..........o......
-Steg         ....o............     ....o.o.o.o.o.o...
-Seitenhalter ..o..........o...     ..o............o..
+
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>E/e</th>
+<th>holes</th>
+<th>holes dist.</th>
+<th>holes Ø</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mexico Strat</td>
+<td>52,4 mm (2 1/16)</td>
+<td>6</td>
+<td>52,4 mm (2 1/16)</td>
+<td>3 mm (1/8")</td>
+</tr>
+<tr>
+<td>Vintage</td>
+<td>56,36 mm (2 7/32")</td>
+<td>6</td>
+<td>55,9 mm (2.2")</td>
+<td>3 mm (1/8")</td>
+</tr>
+<tr>
+<td>American Standard</td>
+<td>52,83 mm (2.08")</td>
+<td>2</td>
+<td>55,9 mm (2.2")</td>
+<td>9,5 mm (.375")</td>
+</tr>
+<tr>
+<td>Floyd Rose (“recessed”)</td>
+<td>53 mm (2-3/32")</td>
+<td>2</td>
+<td>74 mm (2.913")</td>
+<td>9,91 mm (.390")</td>
+</tr>
+<tr>
+<td>Schaller 2000</td>
+<td>53,5 mm</td>
+<td>2</td>
+<td>56 mm</td>
+<td>10 mm</td>
+</tr>
+<tr>
+<td>Schaller vintage</td>
+<td>53,5 mm</td>
+<td>2</td>
+<td>74,3 mm</td>
+<td>10 mm</td>
+</tr>
+<tr>
+<td>Wilkinson (“recessed”)</td>
+<td>54 mm (2-1/8")</td>
+<td>2</td>
+<td>55,9 mm (2.2")</td>
+<td>9,7 mm (.382")</td>
+</tr>
+</tbody>
+</table><h4 id="tune-o-matic-gibson-style-routing">Tune-O-Matic Gibson Style Routing</h4>
+<pre><code>              Tune-O-Matic        TOM "strings through the body"
+Tailpiece    ..........o......
+Tailpiece    ....o............     ....o.o.o.o.o.o...
+Bridge       ..o..........o...     ..o............o..
 </code></pre>
-      <table>
-         <thead>
-            <tr>
-               <th>Model</th>
-               <th>E/e</th>
-               <th>bridge</th>
-               <th>tailpiece</th>
-               <th>tailpiece top</th>
-               <th>tailpiece bottom</th>
-               <th>Ø</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>Tune-O-Matic</td>
-               <td>ca. 52 mm*</td>
-               <td>74 mm (2.91")</td>
-               <td>ca 82 mm*</td>
-               <td>38 mm (1.49")</td>
-               <td>41 mm (1.61")</td>
-               <td>ca. 11 mm (0.44")</td>
-            </tr>
-         </tbody>
-      </table>
-      <p>Instead Tailpiece - there may be “strings through the body” drillings.</p>
-      <p>Moreover, there are other rare variants:</p>
-      <ul>
-         <li>Jazzmaster®</li>
-         <li>Jaguar®</li>
-         <li>Bigsby®</li>
-         <li>Kahler®</li>
-      </ul>
-      <blockquote>
-         <p><a href="http://www.callahamguitars.com/technicalinfo.htm">callahamguitar.com</a> - technical specifications of some coustom parts.</p>
-      </blockquote>
-      <h3 id="pickup-routing">Pickup Routing</h3>
-      <table>
-         <thead>
-            <tr>
-               <th>Description</th>
-               <th>Av. length/width/depth*</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>Single Coils Strat</td>
-               <td>mm (")</td>
-            </tr>
-            <tr>
-               <td>Humbucker</td>
-               <td>mm (")</td>
-            </tr>
-            <tr>
-               <td>Wide Humbucker**</td>
-               <td>mm (")</td>
-            </tr>
-            <tr>
-               <td>Mini Humbucker</td>
-               <td>mm (")</td>
-            </tr>
-            <tr>
-               <td>Tele Neck</td>
-               <td>mm (")</td>
-            </tr>
-            <tr>
-               <td>Tele Bridge</td>
-               <td>mm (")</td>
-            </tr>
-            <tr>
-               <td>P90</td>
-               <td>mm (")</td>
-            </tr>
-            <tr>
-               <td>Lipstick Tube</td>
-               <td>mm (")</td>
-            </tr>
-            <tr>
-               <td>Jazzmaster</td>
-               <td>mm (")</td>
-            </tr>
-         </tbody>
-      </table>
-      <p>*Exact specifications can be found on the manufacturer’s website.</p>
-      <p>**Wide Humbucker (same as Seymourduncans “Trembucker” or Dimarzios “F-spaced Hambucker” can be used for guitars with larger sting distance with standard “Humbucker Routing”</p>
-      <blockquote>
-         <p><a href="http://Seymourduncan.com">Seymourduncan.com</a> says:<br>
-            “A quick and easy way to tell which you need is to measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Trembucker. If it’s less than two inches or 50mm, go for a humbucker.”
-         </p>
-      </blockquote>
-      <hr>
-      <h2 id="hardware">Hardware</h2>
-      <p><img src="./images/clip12_hardware.jpg" alt="hardware"></p>
-      <h3 id="tuning-machines">Tuning Machines</h3>
-      <p><img src="./images/clip10_tuning-machine-head.jpg" alt="tuning machine head"></p>
-      <p>Tuning Machines Options:</p>
-      <ul>
-         <li>Diameters of bore holes for axis (see chapter <a href="#tuner-holes">Tuner Holes</a>)</li>
-         <li>Ratio - for 1x winding around the shaft head - 1x rotation necessary.<br>
-            Larger ratio (1:18 &gt; 1:14) allows finer adjustments.
-         </li>
-         <li>Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside</li>
-      </ul>
-      <h3 id="bridges">Bridges</h3>
-      <p><img src="./images/clip11_bridge.jpg" alt="bridge"></p>
-      <p>Guitar bridge has large <strong>influence on playability</strong> (mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  <a href="#bridge-routing">Bridge Routing</a> chapter above describes common bridge categories with string spacing specification.</p>
-      <p>Bridge form and material have also some <strong>influence on sound</strong>.<br>
-         Good manufacturers provide detailed product information on their pages:
-      </p>
-      <blockquote>
-         <p><a href="https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html">ABM</a> -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.<br>
-            <a href="http://www.tonepros.com/bridge-and-tailpiece-sets/">TonePros</a>  - bridge and tailpiece sets.
-         </p>
-      </blockquote>
-      <h3 id="knob-styles">Knob Styles</h3>
-      <p><img src="./images/clip13_knob.jpg" alt="knob"></p>
-      <p>There are 3 common styles of knobs:</p>
-      <ul>
-         <li>bell</li>
-         <li>speed</li>
-         <li>domed</li>
-      </ul>
-      <blockquote>
-         <p><a href="http://blog.philadelphialuthiertools.com/2013/05/16/choosing-the-correct-knob-for-your-guitar-or-bass/">philadelphialuthiertools.com</a>  - Choosing the correct knob for your guitar or bass.</p>
-      </blockquote>
-      <h3 id="more-parts-to-complete">More Parts To Complete</h3>
-      <p><img src="./images/clip9_jackplate.jpg" alt="jackplate"></p>
-      <ul>
-         <li>Jacks &amp; jackplates</li>
-         <li>Neck plate (neck-to-body)</li>
-         <li>Pickguard or pickup mounting rings, control plate for tele)</li>
-         <li>Screws for all parts above</li>
-         <li>String Ferrules (if you use “string through body”  instead of bridge)</li>
-         <li>String Retainers</li>
-         <li>Strap Holders</li>
-      </ul>
-      <p>For each screw, the hole must be pre-drilled to the core diameter (not outer diameter)</p>
-      <hr>
-      <h2 id="electronics">Electronics</h2>
-      <p><img src="./images/clip3_harness.jpg" alt="electronics"></p>
-      <p>Electronics exerts greatest influence on the overall sound of a solid-body electric guitar.</p>
-      <blockquote>
-         <p><a href="http://www.buildyourguitar.com/resources/lemme/index.htm">buildyourguitar.com -  The Secrets of Electric Guitar Pickups by Lemme</a> - “If you know the resonant frequency and height of the resonant peak, you know about 90 percent of a pickup’s transfer characteristics. Some other effects cannot be described using this model, but their influence is less important”.</p>
-      </blockquote>
-      <p>Frequency response of a magnetic pickup may look like this <img src="./images/resonant_peak_and_frequency.jpg" alt="resonant peak and frequency"></p>
-      <table>
-         <thead>
-            <tr>
-               <th>Sound group</th>
-               <th>Resonant frequency</th>
-               <th>Resonant peak</th>
-               <th>Example Pickup</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>bright</td>
-               <td>3 - 6kHz</td>
-               <td>high peak</td>
-               <td>Fender single coils</td>
-            </tr>
-            <tr>
-               <td>powerful</td>
-               <td>2 - 3kHz</td>
-               <td>medium high peak</td>
-               <td>Gibson PAF</td>
-            </tr>
-            <tr>
-               <td>mellow</td>
-               <td>1.5 - 2kHz</td>
-               <td>low peak</td>
-               <td>Rolling back tone pot</td>
-            </tr>
-         </tbody>
-      </table>
-      <p>Following topics change resonant frequency and resonant peak:</p>
-      <ul>
-         <li><a href="#pickup-properties">Pickup Properties</a>  - position and height of frequency peak vary from type to type.</li>
-         <li><a href="#electronics-wiring-options">Electronics Wiring Options</a>  - Hambucker coils are switched in series by default, switching them in parallel or using only one of the coils will increase resonant frequency and the sound will have more treble.</li>
-         <li><a href="#potentiometer-and-capacitor-values">Potentiometer and Capacitor Values</a> changing provides also simple way to change resonant frequency and peak.</li>
-         <li>Cable capacitance - longer cable will lead to lower resonant frequency.</li>
-         <li>Amp input impedance</li>
-      </ul>
-      <h3 id="pickup-properties">Pickup Properties</h3>
-      <p><img src="./images/clip5_hambucker.jpg" alt="pickup properties"></p>
-      <ul>
-         <li>Dimension and product group - see chapter  <a href="#pickup-routing">Puckup Routing</a></li>
-         <li>Output: low(vintage), medium, high (vintage used often for jazz and blues)</li>
-         <li>Wiring:  1, 2, 3  or 4-Con­ductor (4-Con­ductor allowing most flexible wiring)*</li>
-         <li>Position: Bridge, Neck, Midd­le</li>
-         <li>Passive vs. Active (Active often used for distortion sound)</li>
-         <li>D.C. Resistance: indication how much output a pickup will have</li>
-         <li>E.Q. chat: A general idea as to the Bass, Mids and Treble.</li>
-      </ul>
-      <blockquote>
-         <p><a href="http://www.seymourduncan.com/pickup-selector-step-1">seymourduncan.com</a> - pickup selector<br>
-            <a href="http://www.dimarzio.com/pickup-picker">dimarzio.com</a> - pickup picker
-         </p>
-      </blockquote>
-      <h3 id="electronics-wiring-options">Electronics Wiring Options</h3>
-      <p><img src="./images/clip14_switch.jpg" alt="electronics wiring options"></p>
-      <table>
-         <thead>
-            <tr>
-               <th>Effect</th>
-               <th>Pot</th>
-               <th>Push/Pull or Mini <br> DPDT(ON/OFF/ON)*</th>
-               <th>Mini <br>DPDP(ON/ON)</th>
-               <th>Mini <br> DPDP(ON/ON/ON)</th>
-               <th>X-Way-Blade <br> Megaswitch</th>
-               <th>Rotary Switch.</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>volume</td>
-               <td>y</td>
-               <td>-/y¹</td>
-               <td>-</td>
-               <td>-</td>
-               <td>-</td>
-               <td>-</td>
-            </tr>
-            <tr>
-               <td>tone</td>
-               <td>y</td>
-               <td>-/y¹</td>
-               <td>-</td>
-               <td>-</td>
-               <td>-</td>
-               <td>y³</td>
-            </tr>
-            <tr>
-               <td>series/parallel</td>
-               <td>-</td>
-               <td>y</td>
-               <td>-</td>
-               <td>y</td>
-               <td>y</td>
-               <td>y</td>
-            </tr>
-            <tr>
-               <td>coil split</td>
-               <td>-</td>
-               <td>y</td>
-               <td>y</td>
-               <td>y</td>
-               <td>y</td>
-               <td>y</td>
-            </tr>
-            <tr>
-               <td>series/parallel &amp; coil tap</td>
-               <td>-</td>
-               <td>y²</td>
-               <td>y²</td>
-               <td>y²</td>
-               <td>y²</td>
-               <td>-</td>
-            </tr>
-            <tr>
-               <td>phase switch</td>
-               <td>-</td>
-               <td>y</td>
-               <td>y</td>
-               <td>y</td>
-               <td>y</td>
-               <td>y</td>
-            </tr>
-            <tr>
-               <td>pickup switch</td>
-               <td>-</td>
-               <td>y</td>
-               <td>y</td>
-               <td>y</td>
-               <td>y</td>
-               <td>y</td>
-            </tr>
-         </tbody>
-      </table>
-      <pre><code> * switch owerview:
+
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>E/e</th>
+<th>Bridge</th>
+<th>Tailpiece</th>
+<th>Tailpiece Top</th>
+<th>Tailpiece Bottom</th>
+<th>Ø</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tune-O-Matic</td>
+<td>ca. 52 mm*</td>
+<td>74 mm (2.91")</td>
+<td>ca 82 mm*</td>
+<td>38 mm (1.49")</td>
+<td>41 mm (1.61")</td>
+<td>ca. 11 mm (0.44")</td>
+</tr>
+</tbody>
+</table><p>Instead Tailpiece - there may be “strings through the body” drillings.</p>
+<p>Moreover, there are other rare variants:</p>
+<ul>
+<li>Jazzmaster®</li>
+<li>Jaguar®</li>
+<li>Bigsby®</li>
+<li>Kahler®</li>
+</ul>
+<blockquote>
+<p><a href="http://www.callahamguitars.com/technicalinfo.htm">callahamguitar.com</a> - technical specifications of some coustom parts.</p>
+</blockquote>
+<h3 id="pickup-routing">Pickup Routing</h3>
+
+<table>
+<thead>
+<tr>
+<th>Description</th>
+<th>Av.length/width/depth*</th>
+<th>Pickup Frames Design</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single Coils Strat</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Humbucker</td>
+<td>-</td>
+<td>Flat, Curved, High(bridge), Low(neck)</td>
+</tr>
+<tr>
+<td>Wide Humbucker**</td>
+<td>-</td>
+<td>Flat, Curved, High(bridge), Low(neck)</td>
+</tr>
+<tr>
+<td>Mini Humbucker</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Tele Neck</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Tele Bridge</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>P90</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Lipstick Tube</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Jazzmaster</td>
+<td>-</td>
+<td></td>
+</tr>
+</tbody>
+</table><p>*Exact specifications can be found on the manufacturer’s website like:</p>
+<blockquote>
+<p><a href="https://www.bareknucklepickups.co.uk/support#dimensions">bareknucklepickups.co.uk</a> - dimensions</p>
+</blockquote>
+<p>**Wide Humbucker (same as Seymourduncans “Trembucker” or Dimarzios “F-spaced Hambucker”) can be used for guitars with larger sting distance with standard “Humbucker Routing”. Measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Wide Humbucker.</p>
+<hr>
+<h2 id="hardware">Hardware</h2>
+<p><img src="./images/clip12_hardware.jpg" alt="hardware"></p>
+<h3 id="bridges">Bridges</h3>
+<p><img src="./images/clip11_bridge.jpg" alt="bridge"></p>
+<p>Guitar bridge has large <strong>influence on playability</strong> (mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  <a href="#bridge-routing">Bridge Routing</a> chapter above describes common bridge categories with string spacing specification.</p>
+<p>Bridge form and material have also some <strong>influence on sound</strong>.<br>
+Good manufacturers provide detailed product information on their pages:</p>
+<blockquote>
+<p><a href="https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html">ABM</a> -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.<br>
+<a href="http://www.tonepros.com/bridge-and-tailpiece-sets/">TonePros</a>  - bridge and tailpiece sets.</p>
+</blockquote>
+<h3 id="tuning-machines">Tuning Machines</h3>
+<p><img src="./images/clip10_tuning-machine-head.jpg" alt="tuning machine head"></p>
+<p>Tuning Machines Options:</p>
+<ul>
+<li>Configuration: 3L+3R, 6-in-Line</li>
+<li>Diameters of bore holes for axis (see chapter <a href="#tuner-holes">Tuner Holes</a>)</li>
+<li>Ratio - for 1x winding around the shaft head - 1x rotation necessary.<br>
+Larger ratio (1:18 &gt; 1:14) allows finer adjustments.</li>
+<li>Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside</li>
+</ul>
+<h3 id="knob-styles">Knob Styles</h3>
+<p><img src="./images/clip13_knob.jpg" alt="knob"></p>
+<p>There are 3 common styles of knobs:</p>
+<ul>
+<li>bell</li>
+<li>speed</li>
+<li>domed</li>
+</ul>
+<blockquote>
+<p><a href="http://blog.philadelphialuthiertools.com/2013/05/16/choosing-the-correct-knob-for-your-guitar-or-bass/">philadelphialuthiertools.com</a>  - Choosing the correct knob for your guitar or bass.</p>
+</blockquote>
+<h3 id="more-parts-to-complete">More Parts To Complete</h3>
+<p><img src="./images/clip9_jackplate.jpg" alt="jackplate"></p>
+<ul>
+<li>Jacks &amp; jackplates</li>
+<li>Neck plate (neck-to-body)</li>
+<li>Pickguard or pickup mounting rings, control plate for tele)</li>
+<li>Screws for all parts above</li>
+<li>String Ferrules (if you use “string through body”  instead of bridge)</li>
+<li>String Retainers</li>
+<li>Strap Holders</li>
+</ul>
+<p>For each screw, the hole must be pre-drilled to the core diameter (not outer diameter)</p>
+<hr>
+<h2 id="electronics">Electronics</h2>
+<p><img src="./images/clip3_harness.jpg" alt="electronics"></p>
+<p>Electronics exerts greatest influence on the overall sound of a solid-body electric guitar.</p>
+<blockquote>
+<p><a href="http://www.buildyourguitar.com/resources/lemme/index.htm">buildyourguitar.com -  The Secrets of Electric Guitar Pickups by Lemme</a> - “If you know the resonant frequency and height of the resonant peak, you know about 90 percent of a pickup’s transfer characteristics. Some other effects cannot be described using this model, but their influence is less important”.</p>
+</blockquote>
+<p>Frequency response of a magnetic pickup may look like this <img src="./images/resonant_peak_and_frequency.jpg" alt="resonant peak and frequency"></p>
+
+<table>
+<thead>
+<tr>
+<th>Sound group</th>
+<th>Resonant frequency</th>
+<th>Resonant peak</th>
+<th>Example Pickup</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>bright</td>
+<td>3 - 6kHz</td>
+<td>high peak</td>
+<td>Fender single coils</td>
+</tr>
+<tr>
+<td>powerful</td>
+<td>2 - 3kHz</td>
+<td>medium high peak</td>
+<td>Gibson PAF</td>
+</tr>
+<tr>
+<td>mellow</td>
+<td>1.5 - 2kHz</td>
+<td>low peak</td>
+<td>Rolling back tone pot</td>
+</tr>
+</tbody>
+</table><p>Following topics change resonant frequency and resonant peak:</p>
+<ul>
+<li><a href="#pickup-properties">Pickup Properties</a>  - position and height of frequency peak vary from type to type.</li>
+<li><a href="#electronics-wiring-options">Electronics Wiring Options</a>  - Hambucker coils are switched in series by default, switching them in parallel or using only one of the coils will increase resonant frequency and the sound will have more treble.</li>
+<li><a href="#potentiometer-and-capacitor-values">Potentiometer and Capacitor Values</a> changing provides also simple way to change resonant frequency and peak.</li>
+<li>Cable capacitance - longer cable will lead to lower resonant frequency.</li>
+<li>Amp input impedance</li>
+</ul>
+<h3 id="pickup-properties">Pickup Properties</h3>
+<p><img src="./images/clip5_hambucker.jpg" alt="pickup properties"></p>
+<ul>
+<li>Dimension and product group - see chapter  <a href="#pickup-routing">Puckup Routing</a></li>
+<li>Output: low(vintage), medium, high (vintage used often for jazz and blues)</li>
+<li>Wiring:  1, 2, 3  or 4-Con­ductor (4-Con­ductor allowing most flexible wiring)*</li>
+<li>Position: Bridge, Neck, Midd­le</li>
+<li>Passive vs. Active (Active often used for distortion sound)</li>
+<li>D.C. Resistance: indication how much output a pickup will have</li>
+<li>E.Q. chat: A general idea as to the Bass, Mids and Treble.</li>
+</ul>
+<blockquote>
+<p><a href="http://www.seymourduncan.com/pickup-selector-step-1">seymourduncan.com</a> - pickup selector<br>
+<a href="http://www.dimarzio.com/pickup-picker">dimarzio.com</a> - pickup picker</p>
+</blockquote>
+<h3 id="electronics-wiring-options">Electronics Wiring Options</h3>
+<p><img src="./images/clip14_switch.jpg" alt="electronics wiring options"></p>
+
+<table>
+<thead>
+<tr>
+<th>Effect</th>
+<th>Pot</th>
+<th>Push/Pull or Mini <br> DPDT(ON/OFF/ON)*</th>
+<th>Mini <br>DPDP(ON/ON)</th>
+<th>Mini <br> DPDP(ON/ON/ON)</th>
+<th>X-Way-Blade <br> Megaswitch</th>
+<th>Rotary Switch.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>volume</td>
+<td>y</td>
+<td>-/y¹</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>tone</td>
+<td>y</td>
+<td>-/y¹</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>y³</td>
+</tr>
+<tr>
+<td>series/parallel</td>
+<td>-</td>
+<td>y</td>
+<td>-</td>
+<td>y</td>
+<td>y</td>
+<td>y</td>
+</tr>
+<tr>
+<td>coil split</td>
+<td>-</td>
+<td>y</td>
+<td>y</td>
+<td>y</td>
+<td>y</td>
+<td>y</td>
+</tr>
+<tr>
+<td>series/parallel &amp; coil tap</td>
+<td>-</td>
+<td>y²</td>
+<td>y²</td>
+<td>y²</td>
+<td>y²</td>
+<td>-</td>
+</tr>
+<tr>
+<td>phase switch</td>
+<td>-</td>
+<td>y</td>
+<td>y</td>
+<td>y</td>
+<td>y</td>
+<td>y</td>
+</tr>
+<tr>
+<td>pickup switch</td>
+<td>-</td>
+<td>y</td>
+<td>y</td>
+<td>y</td>
+<td>y</td>
+<td>y</td>
+</tr>
+</tbody>
+</table><pre><code> * switch owerview:
 DPDT (ON/OFF/ON):     DPDT (ON/ON):     DPDT (ON/ON/ON):
 0 X X | 0 0 0 | X X 0   0 X X | X X 0     0 X X | X X 0 | X X 0
 0 X X | 0 0 0 | X X 0   0 X X | X X 0     0 X X | 0 X X | X X 0
 </code></pre>
-      <p>‘¹’ DPDP(ON/OFF/ON) available as “Mini-switch” oder “Push/Push-Pot” for volume and tone control</p>
-      <p>‘²’ can be done by 4 Push/Pull pots, 4 Mini-switch (as SD “triple shot”) or by 5-Way blade megaswitch</p>
-      <p>‘³’ c-switch/varitone - Rotary switch for different pots</p>
-      <blockquote>
-         <p><a href="https://open.guitars/egitarrenbau/tonabnehmer-verdrahtung">open.guitars (german)</a> - Hambucker Conductor/Coils switching options.</p>
-      </blockquote>
-      <h3 id="electronics-wiring-schemas">Electronics Wiring Schemas</h3>
-      <p><img src="./images/clip4_wiring.jpg" alt="electronics wiring schemas"></p>
-      <p>More wiring schemas from:</p>
-      <blockquote>
-         <ul>
-            <li><a href="http://www.seymourduncan.com/wiring-diagrams">seymourduncan</a></li>
-            <li><a href="http://www.dimarzio.com/support/wiring-diagrams">dimarzio</a></li>
-            <li><a href="https://bareknucklepickups.co.uk/main/schematics.php">bareknucklepickups</a></li>
-            <li><a href="https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams">amplifiedparts</a></li>
-         </ul>
-      </blockquote>
-      <h3 id="potentiometer-and-capacitor-values">Potentiometer and Capacitor Values</h3>
-      <p><img src="./images/clip16_cap.jpg" alt="cap values"></p>
-      <table>
-         <thead>
-            <tr>
-               <th>Sound group</th>
-               <th>Pot</th>
-               <th>Cap</th>
-               <th>Examples</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>standard hambucker</td>
-               <td>500K</td>
-               <td>0.047mF</td>
-               <td>most hambucker equiped guitars</td>
-            </tr>
-            <tr>
-               <td>bright</td>
-               <td>500K</td>
-               <td>0.022mF</td>
-               <td>some guitars (U.S. FAT Tele)</td>
-            </tr>
-            <tr>
-               <td>brighter</td>
-               <td>500K</td>
-               <td>0.01mF</td>
-               <td>some custom models</td>
-            </tr>
-            <tr>
-               <td>brightest</td>
-               <td>1M</td>
-               <td>0.01mF</td>
-               <td>some custom models</td>
-            </tr>
-            <tr>
-               <td>standard singele coils</td>
-               <td>250K</td>
-               <td>0.022mF</td>
-               <td>most strat &amp; tele models</td>
-            </tr>
-            <tr>
-               <td>jazzy</td>
-               <td>250K</td>
-               <td>0.047mF</td>
-               <td>some teles (ASAT BluesBoy)</td>
-            </tr>
-         </tbody>
-      </table>
-      <blockquote>
-         <p><a href="http://www.planetz.com/guitar-tone-capacitors-material-types">http://www.planetz.com/guitar-tone-capacitors-material-types</a> -   comparison of tone capacitor material types and capacitance values.</p>
-      </blockquote>
-      <h3 id="volume-and-tone-potentiometer-options">Volume and Tone Potentiometer Options</h3>
-      <p><img src="./images/clip15_pot.jpg" alt="volume and tone pot"></p>
-      <table>
-         <thead>
-            <tr>
-               <th>Group</th>
-               <th>Pot body Ø</th>
-               <th>Bushing Ø</th>
-               <th>Bushing length</th>
-               <th>Shaft length</th>
-               <th>Example</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>standard</td>
-               <td>24 mm</td>
-               <td>8 mm</td>
-               <td>10 mm</td>
-               <td>19 mm</td>
-               <td>most fender guitars</td>
-            </tr>
-            <tr>
-               <td>mini</td>
-               <td>17 mm</td>
-               <td>7 mm</td>
-               <td>10 mm</td>
-               <td>‘&gt;’ 17 mm</td>
-               <td>many jazz guitars</td>
-            </tr>
-            <tr>
-               <td>long</td>
-               <td>24 mm</td>
-               <td>8 mm</td>
-               <td>20 mm</td>
-               <td>27,5 mm</td>
-               <td>most Gibson LP guitars</td>
-            </tr>
-         </tbody>
-      </table>
-      <ul>
-         <li>Resistance: 250K, 300K, 500K, 1M</li>
-         <li>Taper: Audio, Reverse Audio, Linear, Balance</li>
-         <li>Shaft Type: Knurled, Round &amp; Plain</li>
-         <li>Shaft Diameter: 6 mm (0.236 in), 6.35 mm (0.25 in)</li>
-         <li>Shaft Length:  17mm, 19 mm (0.75 in), 27,5 mm (1.125 in)</li>
-      </ul>
-      <blockquote>
-         <p><a href="http://www.mouser.de/Passive-Components/Potentiometers-Trimmers-Rheostats/Potentiometers/_/N-9q0yp?P=1yiiebq&amp;Keyword=Potentiometers&amp;FS=True">mouser.de - guitar potentiometer category</a> - showing more options.</p>
-      </blockquote>
-      <h3 id="active-pickups-electronics">Active Pickups Electronics</h3>
-      <p><img src="./images/clip7_active-pickup.jpg" alt="active pickups"></p>
-      <p>Active Electronics tries to reduce dependancy from the shielded cable and amp input impedance. However, that needs power to operate, and that’s its biggest drawback.</p>
-      <blockquote>
-         <p><a href="http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm">Custom Buffers (german)</a> -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.<br>
-            <a href="http://www.seymourduncan.com/accessory/blackouts-preamp-short-shaft">Seymour Duncan BMP-1Standard Blackout Modular Preamp</a> - make any pickup active.<br>
-            <a href="http://www.emgpickups.com/pa2.html">EMG PA2 Preamp/Booster</a>  -   mini-switch with 0-20dB boost.
-         </p>
-      </blockquote>
-      <h2 id="strings">Strings</h2>
-      <p><img src="./images/strings.jpg" alt="strings"></p>
-      <p>Depending on following options your sound will be more bright or more mellow:</p>
-      <ul>
-         <li>Construction (Flat Wound/Round Wound)</li>
-         <li>Material (Steel/Nickel) and</li>
-         <li>Tension</li>
-      </ul>
-      <p>Most manufacturers use following naming convention to describe tension of string set:</p>
-      <table>
-         <thead>
-            <tr>
-               <th>Name</th>
-               <th>‘e’ site approx.</th>
-               <th>‘E’ site approx.</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>Extra-Light</td>
-               <td>.008</td>
-               <td>.039</td>
-            </tr>
-            <tr>
-               <td>Light</td>
-               <td>.009</td>
-               <td>.042</td>
-            </tr>
-            <tr>
-               <td>Regular</td>
-               <td>.010</td>
-               <td>.046</td>
-            </tr>
-            <tr>
-               <td>Medium</td>
-               <td>.011</td>
-               <td>.052</td>
-            </tr>
-            <tr>
-               <td>Jazz</td>
-               <td>.012</td>
-               <td>.054</td>
-            </tr>
-            <tr>
-               <td>Baritone</td>
-               <td>.013</td>
-               <td>.056</td>
-            </tr>
-         </tbody>
-      </table>
-      <p>There are also other hybrid sets available - like “Light Top/Heavy Bottom” and “Balanced Tension” combinations.</p>
-      <blockquote>
-         <p><a href="http://www.daddario.com/DADProductsElectric.Page?ActiveID=1903">Daddario</a> - you can choose between bright and mellow sounding electric strings.<br>
-            <a href="http://www.ghsstrings.com/products?categories=electric-guitar">Ghsstrings</a> - also bright vs mellow overview, and <a href="http://www.ghsrep.net/uploads/2/2/2/5/22258814/ghs_electric_guitar_string_guide.pdf">Tension Guide (PDF)</a><br>
-            <a href="http://www.thomastik-infeld.com/fretted-instruments">Thomastik</a> - good jazz and blues strings
-         </p>
-      </blockquote>
-      <h2 id="scale-length">Scale Length</h2>
-      <p><img src="./images/scale-length-648-vs-628-mm-neck-web.jpg" alt="scale-length"></p>
-      <p>A guitar’s scale length is length of string between the nut and the bridge.</p>
-      <p>Scale has a relatively low impact on sound and playability of the guitar. (Compared with other parameters such as strings or pickups).</p>
-      <p>Longer scale length sound and playability characteristics:</p>
-      <ul>
-         <li>quick response, crisp attack</li>
-         <li>transparent sound with well-defined basses and heights</li>
-         <li>larger finger spread</li>
-         <li>higher string tension at constant gauge</li>
-      </ul>
-      <p>Shorter scale length sound characteristics:</p>
-      <ul>
-         <li>warmer</li>
-         <li>more sustain and longer decay</li>
-      </ul>
-      <p>Common Scale Length:</p>
-      <ul>
-         <li>572 mm (22.5") or shorter - 3/4 &amp; some travel guitars</li>
-         <li>596,9 mm (23.50") - Fender Jazzmaster/Jaguar guitars</li>
-         <li>629 mm (24.75") - many Gibson guitars</li>
-         <li>635 mm (25") - many PRS guitars</li>
-         <li>648 mm (25.5") - many Fender guitars</li>
-         <li>650 mm (25.5)	- typical classical guitars</li>
-         <li>686 mm (27") or longer - Baritone guitars</li>
-      </ul>
-      <h2 id="woods">Woods</h2>
-      <p><img src="./images/esche.png" alt="strings"></p>
-      <table>
-         <thead>
-            <tr>
-               <th>Woods</th>
-               <th>Sound¹</th>
-               <th>Weight²</th>
-               <th>Used for³</th>
-               <th>Looks</th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>Alder</td>
-               <td>bright</td>
-               <td>medium</td>
-               <td>T/B</td>
-               <td>bright, simple</td>
-            </tr>
-            <tr>
-               <td>Ash</td>
-               <td>bright</td>
-               <td>medium</td>
-               <td>T/B</td>
-               <td>bright, simple</td>
-            </tr>
-            <tr>
-               <td>Basswood</td>
-               <td>neutral</td>
-               <td>light</td>
-               <td>B</td>
-               <td>bright, simple</td>
-            </tr>
-            <tr>
-               <td>Bubinga</td>
-               <td>bright</td>
-               <td>medium</td>
-               <td>T/B/N/F</td>
-               <td>red, often grained</td>
-            </tr>
-            <tr>
-               <td>Ebony</td>
-               <td>bright</td>
-               <td>heavy</td>
-               <td>N/F</td>
-               <td>dark</td>
-            </tr>
-            <tr>
-               <td>Maple</td>
-               <td>very bright</td>
-               <td>heavy</td>
-               <td>T/B/N/F</td>
-               <td>bright, often grained</td>
-            </tr>
-            <tr>
-               <td>Koa</td>
-               <td>warm</td>
-               <td>medium</td>
-               <td>T/B/N</td>
-               <td>dark, grained, attractive</td>
-            </tr>
-            <tr>
-               <td>Korina</td>
-               <td>warm</td>
-               <td>medium</td>
-               <td>T/B/N</td>
-               <td>grained, attractive</td>
-            </tr>
-            <tr>
-               <td>Mahogany</td>
-               <td>warm</td>
-               <td>medium</td>
-               <td>T/B/N</td>
-               <td>red</td>
-            </tr>
-            <tr>
-               <td>Poplar</td>
-               <td>neutral</td>
-               <td>medium</td>
-               <td>B</td>
-               <td>bright, simple</td>
-            </tr>
-            <tr>
-               <td>Rosewood</td>
-               <td>warm</td>
-               <td>medium</td>
-               <td>T/B/N/F</td>
-               <td>dark</td>
-            </tr>
-            <tr>
-               <td>Sitka Spruce</td>
-               <td>neutral</td>
-               <td>light</td>
-               <td>T/B</td>
-               <td>bright, simple</td>
-            </tr>
-            <tr>
-               <td>Swamp-Ash</td>
-               <td>neutral</td>
-               <td>light</td>
-               <td>T/B</td>
-               <td>bright, attractive</td>
-            </tr>
-            <tr>
-               <td>Walnut</td>
-               <td>bright</td>
-               <td>medium</td>
-               <td>T/B/N</td>
-               <td>gray, attractive</td>
-            </tr>
-            <tr>
-               <td>Wenge</td>
-               <td>bright</td>
-               <td>heavy</td>
-               <td>T/B/N/F</td>
-               <td>dark</td>
-            </tr>
-         </tbody>
-      </table>
-      <p>¹ Sound:  the diagram for effects on tone stands mainly for acoustic instruments and NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright despite the representations below.<br>
-         ² Weight may vary for the same variety.<br>
-         ³ Used for: T - Body Top | B - Body | N - neck | F - fretboards
-      </p>
-      <blockquote>
-         <p><a href="http://www.frudua.com/sound_of_electric_guitar_wood.htm">frudua.com</a>  - see on page bottom - graphical examples for body, neck and freatboard woods showing relationship between wood hardness, its density and tone.</p>
-      </blockquote>
+<p>‘¹’ DPDP(ON/OFF/ON) available as “Mini-switch” oder “Push/Push-Pot” for volume and tone control</p>
+<p>‘²’ can be done by 4 Push/Pull pots, 4 Mini-switch (as SD “triple shot”) or by 5-Way blade megaswitch</p>
+<p>‘³’ c-switch/varitone - Rotary switch for different pots</p>
+<blockquote>
+<p><a href="https://open.guitars/egitarrenbau/tonabnehmer-verdrahtung">open.guitars (german)</a> - Hambucker Conductor/Coils switching options.</p>
+</blockquote>
+<h3 id="electronics-wiring-schemas">Electronics Wiring Schemas</h3>
+<p><img src="./images/clip4_wiring.jpg" alt="electronics wiring schemas"></p>
+<p>More wiring schemas from:</p>
+<blockquote>
+<ul>
+<li><a href="http://www.seymourduncan.com/wiring-diagrams">seymourduncan</a></li>
+<li><a href="http://www.dimarzio.com/support/wiring-diagrams">dimarzio</a></li>
+<li><a href="https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams">amplifiedparts</a></li>
+</ul>
+</blockquote>
+<h3 id="potentiometer-and-capacitor-values">Potentiometer and Capacitor Values</h3>
+<p><img src="./images/clip16_cap.jpg" alt="cap values"></p>
+
+<table>
+<thead>
+<tr>
+<th>Sound group</th>
+<th>Pot</th>
+<th>Cap</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>standard hambucker</td>
+<td>500K</td>
+<td>0.047mF</td>
+<td>most hambucker equiped guitars</td>
+</tr>
+<tr>
+<td>bright</td>
+<td>500K</td>
+<td>0.022mF</td>
+<td>some guitars (U.S. FAT Tele)</td>
+</tr>
+<tr>
+<td>brighter</td>
+<td>500K</td>
+<td>0.01mF</td>
+<td>some custom models</td>
+</tr>
+<tr>
+<td>brightest</td>
+<td>1M</td>
+<td>0.01mF</td>
+<td>some custom models</td>
+</tr>
+<tr>
+<td>standard singele coils</td>
+<td>250K</td>
+<td>0.022mF</td>
+<td>most strat &amp; tele models</td>
+</tr>
+<tr>
+<td>jazzy</td>
+<td>250K</td>
+<td>0.047mF</td>
+<td>some teles (ASAT BluesBoy)</td>
+</tr>
+</tbody>
+</table><blockquote>
+<p><a href="http://www.planetz.com/guitar-tone-capacitors-material-types">http://www.planetz.com/guitar-tone-capacitors-material-types</a> -   comparison of tone capacitor material types and capacitance values.</p>
+</blockquote>
+<h3 id="volume-and-tone-potentiometer-options">Volume and Tone Potentiometer Options</h3>
+<p><img src="./images/clip15_pot.jpg" alt="volume and tone pot"></p>
+
+<table>
+<thead>
+<tr>
+<th>Group</th>
+<th>Pot body Ø</th>
+<th>Bushing Ø</th>
+<th>Bushing length</th>
+<th>Shaft length</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>standard</td>
+<td>24 mm</td>
+<td>8 mm</td>
+<td>10 mm</td>
+<td>19 mm</td>
+<td>most fender guitars</td>
+</tr>
+<tr>
+<td>mini</td>
+<td>17 mm</td>
+<td>7 mm</td>
+<td>10 mm</td>
+<td>‘&gt;’ 17 mm</td>
+<td>many jazz guitars</td>
+</tr>
+<tr>
+<td>long</td>
+<td>24 mm</td>
+<td>8 mm</td>
+<td>20 mm</td>
+<td>27,5 mm</td>
+<td>most Gibson LP guitars</td>
+</tr>
+</tbody>
+</table><ul>
+<li>Resistance: 250K, 300K, 500K, 1M</li>
+<li>Taper: Audio, Reverse Audio, Linear, Balance</li>
+<li>Shaft Type: Knurled, Round &amp; Plain</li>
+<li>Shaft Diameter: 6 mm (0.236 in), 6.35 mm (0.25 in)</li>
+<li>Shaft Length:  17mm, 19 mm (0.75 in), 27,5 mm (1.125 in)</li>
+</ul>
+<blockquote>
+<p><a href="http://www.mouser.de/Passive-Components/Potentiometers-Trimmers-Rheostats/Potentiometers/_/N-9q0yp?P=1yiiebq&amp;Keyword=Potentiometers&amp;FS=True">mouser.de - guitar potentiometer category</a> - showing more options.</p>
+</blockquote>
+<h3 id="active-pickups-electronics">Active Pickups Electronics</h3>
+<p><img src="./images/clip7_active-pickup.jpg" alt="active pickups"></p>
+<p>Active Electronics tries to reduce dependancy from the shielded cable and amp input impedance. However, that needs power to operate, and that’s its biggest drawback.</p>
+<blockquote>
+<p><a href="http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm">Custom Buffers (german)</a> -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.<br>
+<a href="http://www.seymourduncan.com/accessory/blackouts-preamp-short-shaft">Seymour Duncan BMP-1Standard Blackout Modular Preamp</a> - make any pickup active.<br>
+<a href="http://www.emgpickups.com/pa2.html">EMG PA2 Preamp/Booster</a>  -   mini-switch with 0-20dB boost.</p>
+</blockquote>
+<h2 id="strings">Strings</h2>
+<p><img src="./images/strings.jpg" alt="strings"></p>
+<p>Depending on following options your sound will be more bright or more mellow:</p>
+<ul>
+<li>Construction (Flat Wound/Round Wound)</li>
+<li>Material (Steel/Nickel) and</li>
+<li>Tension</li>
+</ul>
+<p>Most manufacturers use following naming convention to describe tension of string set:</p>
+
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>‘e’ site approx.</th>
+<th>‘E’ site approx.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Extra-Light</td>
+<td>.008</td>
+<td>.039</td>
+</tr>
+<tr>
+<td>Light</td>
+<td>.009</td>
+<td>.042</td>
+</tr>
+<tr>
+<td>Regular</td>
+<td>.010</td>
+<td>.046</td>
+</tr>
+<tr>
+<td>Medium</td>
+<td>.011</td>
+<td>.052</td>
+</tr>
+<tr>
+<td>Jazz</td>
+<td>.012</td>
+<td>.054</td>
+</tr>
+<tr>
+<td>Baritone</td>
+<td>.013</td>
+<td>.056</td>
+</tr>
+</tbody>
+</table><p>There are also other hybrid sets available - like “Light Top/Heavy Bottom” and “Balanced Tension” combinations.</p>
+<blockquote>
+<p><a href="http://www.daddario.com/DADProductsElectric.Page?ActiveID=1903">Daddario</a> - you can choose between bright and mellow sounding electric strings.<br>
+<a href="http://www.ghsstrings.com/products?categories=electric-guitar">Ghsstrings</a> - also bright vs mellow overview, and <a href="http://www.ghsrep.net/uploads/2/2/2/5/22258814/ghs_electric_guitar_string_guide.pdf">Tension Guide (PDF)</a><br>
+<a href="http://www.thomastik-infeld.com/fretted-instruments">Thomastik</a> - good jazz and blues strings</p>
+</blockquote>
+<h2 id="scale-length">Scale Length</h2>
+<p><img src="./images/scale-length-648-vs-628-mm-neck-web.jpg" alt="scale-length"></p>
+<p>A guitar’s scale length is length of string between the nut and the bridge.</p>
+<p>Scale has a relatively low impact on sound and playability of the guitar. (Compared with other parameters such as strings or pickups).</p>
+<p>Longer scale length sound and playability characteristics:</p>
+<ul>
+<li>quick response, crisp attack</li>
+<li>transparent sound with well-defined basses and heights</li>
+<li>larger finger spread</li>
+<li>higher string tension at constant gauge</li>
+</ul>
+<p>Shorter scale length sound characteristics:</p>
+<ul>
+<li>warmer</li>
+<li>more sustain and longer decay</li>
+</ul>
+<p>Common Scale Length:</p>
+<ul>
+<li>572 mm (22.5") or shorter - 3/4 &amp; some travel guitars</li>
+<li>596,9 mm (23.50") - Fender Jazzmaster/Jaguar guitars</li>
+<li>629 mm (24.75") - many Gibson guitars</li>
+<li>635 mm (25") - many PRS guitars</li>
+<li>648 mm (25.5") - many Fender guitars</li>
+<li>650 mm (25.5)	- typical classical guitars</li>
+<li>686 mm (27") or longer - Baritone guitars</li>
+</ul>
+<h2 id="woods">Woods</h2>
+<p><img src="./images/esche.png" alt="strings"></p>
+
+<table>
+<thead>
+<tr>
+<th>Woods</th>
+<th>Sound¹</th>
+<th>Weight²</th>
+<th>Used for³</th>
+<th>Looks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alder</td>
+<td>bright</td>
+<td>medium</td>
+<td>T/B</td>
+<td>bright, simple</td>
+</tr>
+<tr>
+<td>Ash</td>
+<td>bright</td>
+<td>medium</td>
+<td>T/B</td>
+<td>bright, simple</td>
+</tr>
+<tr>
+<td>Basswood</td>
+<td>neutral</td>
+<td>light</td>
+<td>B</td>
+<td>bright, simple</td>
+</tr>
+<tr>
+<td>Bubinga</td>
+<td>bright</td>
+<td>medium</td>
+<td>T/B/N/F</td>
+<td>red, often grained</td>
+</tr>
+<tr>
+<td>Ebony</td>
+<td>bright</td>
+<td>heavy</td>
+<td>N/F</td>
+<td>dark</td>
+</tr>
+<tr>
+<td>Maple</td>
+<td>very bright</td>
+<td>heavy</td>
+<td>T/B/N/F</td>
+<td>bright, often grained</td>
+</tr>
+<tr>
+<td>Koa</td>
+<td>warm</td>
+<td>medium</td>
+<td>T/B/N</td>
+<td>dark, grained, attractive</td>
+</tr>
+<tr>
+<td>Korina</td>
+<td>warm</td>
+<td>medium</td>
+<td>T/B/N</td>
+<td>grained, attractive</td>
+</tr>
+<tr>
+<td>Mahogany</td>
+<td>warm</td>
+<td>medium</td>
+<td>T/B/N</td>
+<td>red</td>
+</tr>
+<tr>
+<td>Poplar</td>
+<td>neutral</td>
+<td>medium</td>
+<td>B</td>
+<td>bright, simple</td>
+</tr>
+<tr>
+<td>Rosewood</td>
+<td>warm</td>
+<td>medium</td>
+<td>T/B/N/F</td>
+<td>dark</td>
+</tr>
+<tr>
+<td>Sitka Spruce</td>
+<td>neutral</td>
+<td>light</td>
+<td>T/B</td>
+<td>bright, simple</td>
+</tr>
+<tr>
+<td>Swamp-Ash</td>
+<td>neutral</td>
+<td>light</td>
+<td>T/B</td>
+<td>bright, attractive</td>
+</tr>
+<tr>
+<td>Walnut</td>
+<td>bright</td>
+<td>medium</td>
+<td>T/B/N</td>
+<td>gray, attractive</td>
+</tr>
+<tr>
+<td>Wenge</td>
+<td>bright</td>
+<td>heavy</td>
+<td>T/B/N/F</td>
+<td>dark</td>
+</tr>
+</tbody>
+</table><p>¹ Sound:  the diagram for effects on tone stands mainly for acoustic instruments and NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright despite the representations below.<br>
+² Weight may vary for the same variety.<br>
+³ Used for: T - Body Top | B - Body | N - neck | F - fretboards</p>
+<blockquote>
+<p><a href="http://www.frudua.com/sound_of_electric_guitar_wood.htm">frudua.com</a>  - see on page bottom - graphical examples for body, neck and freatboard woods showing relationship between wood hardness, its density and tone.</p>
+</blockquote>
+
    </body>
 </html>
