@@ -257,8 +257,8 @@ Moreover, there are other rare variants:
 Description  | Av.length/width/depth* | Pickup Frames Design
 --------------|---------------| --------------
 Single Coils Strat     	  | - |
-Humbucker 		  	  	 | - |  Flat vs Curved/Arched & High(bridge) or Low(neck)
-Wide Humbucker*** 		 | - | Flat vs Curved/Arched & High(bridge) or Low(neck)
+Humbucker 		  	  	 | - | Flat, Curved, High(bridge), Low(neck)
+Wide Humbucker** 		 | - | Flat, Curved, High(bridge), Low(neck)
 Mini Humbucker 		   | - | 
 Tele Neck  		      | - |
 Tele Bridge  		  	 | - |
