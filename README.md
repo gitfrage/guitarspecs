@@ -269,10 +269,7 @@ Jazzmaster              | - |
 *Exact specifications can be found on the manufacturer's website like:
 > [bareknucklepickups.co.uk](https://www.bareknucklepickups.co.uk/support#dimensions) - dimensions
 
-**Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker" can be used for guitars with larger sting distance with standard "Humbucker Routing"
-
-> Seymourduncan.com says:
-> "A quick and easy way to tell which you need is to measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Trembucker. If it’s less than two inches or 50mm, go for a humbucker."
+**Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker" can be used for guitars with larger sting distance with standard "Humbucker Routing". Measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Wide Humbucker.
 
 
 ----------
