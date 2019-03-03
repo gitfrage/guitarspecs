@@ -196,25 +196,25 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 
 #### Flat Mount Hardtail Routing
 
-       "Strat"              Vintage "Tele":      Standard "Tele":     "Schaller":
- 
-     ...o.o.o.o.o.o...      ..o...o...o...o..   ...o.o.o.o.o.o...
-     ..o.....o.....o..      ...o.o.o.o.o.o...   ..o.....o.....o..   ...o....o....o...
+         "Strat"                "Tele"                "Tele"              "Schaller"
+    Vintage & Standard          Vintage               Standard
+    ...o.o.o.o.o.o...       ..o...o...o...o..     ...o.o.o.o.o.o...
+    ..o.....o.....o..       ...o.o.o.o.o.o...     ..o.....o.....o..    ...o....o....o...
 
 
 Model               | E/e              |  Sites holes Ø    | Sites holes dist | holes   | Bridge hole Ø  | Bridgehole dist
 --------------------|------------------|-------------------|------------------|---------|----------------|-------------
-Vintage Strat       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
-Vintage Narrow Strat| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
-Standard Strat      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (.446")  | 3       | 3 mm (1/8")    | 22.6 mm (.89")
-Vintage Tele        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 4       | 3 mm (1/8")    | 21.6 mm (.85")
-Standard Tele       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 32.4 mm (1.267")
+Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
+Strat Vintage Narrow| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
+Strat Standard      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (.446")  | 3       | 3 mm (1/8")    | 22.6 mm (.89")
+Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 4       | 3 mm (1/8")    | 21.6 mm (.85")
+Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 32.4 mm (1.267")
 Schaller 47X        | 51 mm - 55,5 mm  |  -                | -                | 3       | 3.18mm (0.125")| -
 
 
 #### Tremolo Routing
 
-    "Vintage":                  "Standard":
+         Vintage                     Standard
     ..o..o..o..o..o...o...      .....O.......O.....
 
 Model                  | E/e               | holes     | holes dist.      | holes Ø
