@@ -1,14 +1,12 @@
 
-# Electric Guitar Specifications
+# Electric Guitar Specifications [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 
 This is a "top-down checklist" for the assembly of a solid-body electric guitar.
-It can help you to build a guitar with specific sound and playability characteristics.
+It can help you to build a guitar with specific sound and playability characteristics. Please read [licence and the contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) before contributing.
 
 ![Electric Guitar Specifications](./images/Sound-and-Playability.jpg)
 
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-
-Please read [licence and the contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) before contributing.
 
 ## Table of Contents
 
