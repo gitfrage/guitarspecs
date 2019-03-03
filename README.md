@@ -282,6 +282,7 @@ Jazzmaster              | - |
 
 Tuning Machines Options:
 
+ - Configuration: 3L+3R, 6-in-Line
  - Diameters of bore holes for axis (see chapter [Tuner Holes](#tuner-holes))
  - Ratio - for 1x winding around the shaft head - 1x rotation necessary.
    Larger ratio (1:18 > 1:14) allows finer adjustments.
