@@ -230,12 +230,12 @@ Wilkinson ("recessed") | 54 mm (2-1/8")    | 2         | 55,9 mm (2.2")   | 9,7 
 
 #### Tune-O-Matic Gibson Style Routing
 
-    Tune-O-Matic:                       TOM "strings through the body":
-    Steg         ..........o......
-    Steg         ....o............     ....o.o.o.o.o.o...
-    Seitenhalter ..o..........o...     ..o............o..
+                  Tune-O-Matic        TOM "strings through the body"
+    Tailpiece    ..........o......
+    Tailpiece    ....o............     ....o.o.o.o.o.o...
+    Bridge       ..o..........o...     ..o............o..
 
-Model       |  E/e       | bridge       | tailpiece         | tailpiece top     |  tailpiece bottom | Ø
+Model       |  E/e       | Bridge       | Tailpiece         | Tailpiece Top     | Tailpiece Bottom | Ø
 ------------|------------|--------------|-------------------|-------------------|-------------------|------
 Tune-O-Matic| ca. 52 mm* | 74 mm (2.91")| ca 82 mm*         | 38 mm (1.49")     | 41 mm (1.61")     | ca. 11 mm (0.44")
 
@@ -266,7 +266,8 @@ P90  		          	 | mm (")
 Lipstick Tube  		   | mm (")
 Jazzmaster              | mm (")
 
-*Exact specifications can be found on the manufacturer's website.
+*Exact specifications can be found on the manufacturer's website like:
+> [bareknucklepickups.co.uk](https://www.bareknucklepickups.co.uk/support#dimensions) - dimensions
 
 **Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker" can be used for guitars with larger sting distance with standard "Humbucker Routing"
 
@@ -402,7 +403,6 @@ More wiring schemas from:
 
 >- [seymourduncan](http://www.seymourduncan.com/wiring-diagrams)
 >- [dimarzio](http://www.dimarzio.com/support/wiring-diagrams)
->- [bareknucklepickups](https://bareknucklepickups.co.uk/main/schematics.php)
 >- [amplifiedparts](https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams)
 
 ### Potentiometer and Capacitor Values
