@@ -196,7 +196,8 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 
 #### Flat Mount Hardtail Routing
 
-     Flat Mount Hardtail:    Vintage Tele:       Standard Tele:       Schaller:
+       "Strat"              Vintage "Tele":      Standard "Tele":     "Schaller":
+ 
      ...o.o.o.o.o.o...      ..o...o...o...o..   ...o.o.o.o.o.o...
      ..o.....o.....o..      ...o.o.o.o.o.o...   ..o.....o.....o..   ...o....o....o...
 
