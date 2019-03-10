@@ -194,8 +194,7 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 
 ### Bridge Routing
 
-
-#### Flat Mount Hardtail Routing
+#### Flat Mount Hardtail Strat
 
                    Strat Vintage, Narrow & Standard                   
     Sites holes    ...o.o.o.o.o.o...      
@@ -207,6 +206,7 @@ Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 
 Strat Vintage Narrow| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 3 mm (1/8")    | 21 mm (.827")
 Strat Standard      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (0.446") | 3 mm (1/8")    | 22.6 mm (.89")
 
+#### Flat Mount Hardtail Tele
 
                  Tele Vintage                          Tele Standard         
     Bridge holes ..o...o...o...o..      Sites holes    ...o.o.o.o.o.o... 
@@ -217,6 +217,7 @@ Model               | E/e              |  Sites holes Ø    | Sites holes distan
 Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 3 mm (1/8")    | 21.6 mm (.85")
 Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3 mm (1/8")    | 32.4 mm (1.267")
 
+#### Flat Mount Hardtail Schaller
 
                  Schaller Flat Mount
     Bridge holes ...o.....o.....o... 
@@ -225,20 +226,28 @@ Model               | E/e              |  Bridge hole Ø    | Bridge holes dista
 --------------------|------------------|-------------------|-----------------------|--- 
 Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 49 x 12(15) mm
 
-#### Tremolo Routing
+#### Tremolo Routing Vintage
 
-                   Vintage                Standard
-    Bridge holes  ..o..o..o..o..o..o..   ..o..........o..      
+                   Vintage                
+    Bridge holes  ..o..o..o..o..o..o..     
 
-Model                  | E/e               | Holes     | Holes distance   | Holes Ø
------------------------|-------------------|-----------|------------------|--------------
-Mexico Strat           | 52,4 mm (2 1/16)  | 6         | 52,4 mm (2 1/16) | 3 mm (1/8")
-Vintage                | 56,36 mm (2 7/32")| 6         | 55,9 mm (2.2")   | 3 mm (1/8")
-American Standard      | 52,83 mm (2.08")  | 2         | 55,9 mm (2.2")   | 9,5 mm (.375")
-Floyd Rose ("recessed")| 53 mm (2-3/32")   | 2         | 74 mm (2.913")   | 9,91 mm (.390")
-Schaller 2000          | 53,5 mm           | 2         | 56 mm            | 10 mm
-Schaller vintage       | 53,5 mm           | 2         | 74,3 mm          | 10 mm
-Wilkinson ("recessed") | 54 mm (2-1/8")    | 2         | 55,9 mm (2.2")   | 9,7 mm (.382")
+Model                  | E/e                | Holes distance   | Holes Ø
+-----------------------|------------------- |------------------|--------------
+Mexico Strat           | 52,4 mm (2 1/16)   | 52,4 mm (2 1/16) | 3 mm (1/8")
+Vintage                | 56,36 mm (2 7/32") | 55,9 mm (2.2")   | 3 mm (1/8")
+
+#### Tremolo Routing Standard
+
+                   Standard
+    Bridge holes  ..o..........o..      
+
+Model                  | E/e                | Holes distance   | Holes Ø
+-----------------------|------------------- |------------------|--------------
+American Standard      | 52,83 mm (2.08")   | 55,9 mm (2.2")   | 9,5 mm (.375")
+Floyd Rose ("recessed")| 53 mm (2-3/32")    | 74 mm (2.913")   | 9,91 mm (.390")
+Schaller 2000          | 53,5 mm            | 56 mm            | 10 mm
+Schaller vintage       | 53,5 mm            | 74,3 mm          | 10 mm
+Wilkinson ("recessed") | 54 mm (2-1/8")     | 55,9 mm (2.2")   | 9,7 mm (.382")
 
 
 #### Tune-O-Matic Gibson Style Routing
