@@ -196,7 +196,7 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 
 #### Flat Mount Hardtail Routing
 
-    Strat Vintage, Narrow & Standard                   
+                   Strat Vintage, Narrow & Standard                   
     Sites holes    ...o.o.o.o.o.o...      
     Bridge holes   ..o.....o.....o..    
 
@@ -207,7 +207,7 @@ Strat Vintage Narrow| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 
 Strat Standard      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (0.446") | 3 mm (1/8")    | 22.6 mm (.89")
 
 
-    Tele Vintage                        Tele Standard         
+                 Tele Vintage                          Tele Standard         
     Bridge holes ..o...o...o...o..      Sites holes    ...o.o.o.o.o.o... 
     Sites holes  ...o.o.o.o.o.o...      Bridge holes   ..o.....o.....o.. 
 
@@ -217,7 +217,7 @@ Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 
 Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3 mm (1/8")    | 32.4 mm (1.267")
 
 
-    Schaller Flat Mount
+                 Schaller Flat Mount
     Bridge holes ...o....o....o... 
 
 Model               | E/e              |  Bridge hole Ø    | Bridge holes distance | Dimensions (LxWxH)
@@ -244,7 +244,7 @@ Wilkinson ("recessed") | 54 mm (2-1/8")    | 2         | 55,9 mm (2.2")   | 9,7 
 
 #### Tune-O-Matic Gibson Style Routing
 
-                  Tune-O-Matic        TOM "strings through the body"
+                 Tune-O-Matic          TOM "strings through the body"
     Tailpiece    ..........o......
     Tailpiece    ....o............     ....o.o.o.o.o.o...
     Bridge       ..o..........o...     ..o............o..
