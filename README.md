@@ -25,7 +25,7 @@ It can help you to build a guitar with specific sound and playability characteri
     - [Bridge Routing](#bridge-routing)
         - [Flat Mount Hardtail Strat](#flat-mount-hardtail-strat)
         - [Flat Mount Schaller](#flat-mount-schaller)
-        - [Tele Style](#tele-style)
+        - [Flat Mount Tele Style](#flat-mount-tele-style)
         - [Tremolo Vintage](#tremolo-vintage)
         - [Tremolo Standard](#tremolo-standard)
         - [Tune-O-Matic Gibson Style](#tune-o-matic-gibson-style)
@@ -219,16 +219,16 @@ Model               | E/e              |  Bridge hole Ø    | Bridge holes dista
 Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 49 x 12(15) mm
 
 
-#### Tele Style
+#### Flat Mount Tele Style
 
                  Tele Vintage                          Tele Standard         
     Bridge holes ..o...o...o...o..      Sites holes    ...o.o.o.o.o.o... 
     Sites holes  ...o.o.o.o.o.o...      Bridge holes   ..o.....o.....o.. 
 
 Model               | E/e              |  Sites holes Ø    | Sites holes distance | Bridge hole Ø  | Bridge hole distance
---------------------|------------------|-------------------|------------------|----------------|-------------
-Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 3 mm (1/8")    | 21.6 mm (.85")
-Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3 mm (1/8")    | 32.4 mm (1.267")
+--------------------|------------------|-------------------|----------------------|----------------|-------------
+Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")      | 3 mm (1/8")    | 21.6 mm (.85")
+Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413")     | 3 mm (1/8")    | 32.4 mm (1.267")
 
 
 #### Tremolo Vintage
