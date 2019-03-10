@@ -114,11 +114,11 @@ Superwide (Warmoth)    | 48 mm (1-7/8")     | approx. 40 mm
 
 The real  e1 to E6 string spread can be controlled not only through nut width, but also by slot spread in the nut.  For example, 44.5 mm wide nut can have e1 to E6 distance between 35 and 37.5 mm.
 
-Category                | Neck Nut Width  |  e1/E6        | 2 strings      | e/E to edge
-------------------------|-----------------|---------------|----------------|---------------
-e/E analog 43 mm neck   | 44,5 mm (1-3/4")| 35 mm         | 7 mm           | 2 x 4.75 mm
-Ideal solution          | 44,5 mm (1-3/4")| 36.5 mm       | 7.3 mm         | 2 x 4 mm
-edge analog 43 mm neck  | 44,5 mm (1-3/4")| 37.5 mm       | 7.5 mm         | 2 x 3.5 mm
+Category             | String spacing |  e1/E6       | e1 to edge | Neck nut width  
+---------------------|----------------|--------------|----------- |-----------------
+Narrow string spread | 7 mm           | 35 mm        | 4.75 mm    | 44,5 mm (1-3/4")
+Medium string spread | 7.3 mm         | 36.5 mm      | 4 mm       | 44,5 mm (1-3/4")
+Wide string spread   | 7.5 mm         | 37.5 mm      | 3.5 mm     | 44,5 mm (1-3/4")
 
 > [graphtech - sizing guide and pre-slotted nuts (pdf)](http://www.graphtech.com/docs/default-document-library/quick-sizing-guide.pdf)
 
