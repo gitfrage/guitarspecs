@@ -536,7 +536,7 @@ Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
 
 ![frudua.com](https://www.frudua.com/immagini/tonereferenceingtast.gif)
 
-> [frudua.com](http://www.frudua.com/sound_of_electric_guitar_wood.htm) - see on page bottom - graphical examples for boda and neck woods showing relationship between wood hardness, its density and tone.
+> [frudua.com](http://www.frudua.com/sound_of_electric_guitar_wood.htm) - see on page bottom - graphical examples for body and neck woods showing relationship between wood hardness, its density and tone.
 
 
 
