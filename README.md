@@ -196,43 +196,40 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 
 #### Flat Mount Hardtail Routing
 
-    "Strat Vintage, Narrow & Standard"                   
-    ...o.o.o.o.o.o...      
-    ..o.....o.....o..     
+    Strat Vintage, Narrow & Standard                   
+    Sites holes    ...o.o.o.o.o.o...      
+    Bridge holes   ..o.....o.....o..    
 
-Model               | E/e              |  Sites holes Ø    | Sites holes distance | Holes   | Bridge hole Ø  | Bridge holes distance
---------------------|------------------|-------------------|------------------|---------|----------------|-------------
-Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
-Strat Vintage Narrow| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
-Strat Standard      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (0.446") | 3       | 3 mm (1/8")    | 22.6 mm (.89")
-
-
-    "Tele Vintage"        "Tele Standard"         
-    ..o...o...o...o..     ...o.o.o.o.o.o...
-    ...o.o.o.o.o.o...     ..o.....o.....o..    
+Model               | E/e          |  Sites holes Ø    | Sites holes distance | Bridge hole Ø  | Bridge holes distance
+--------------------|------------------|-------------------|------------------|----------------|-------------------
+Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3 mm (1/8")    | 21 mm (.827")
+Strat Vintage Narrow| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 3 mm (1/8")    | 21 mm (.827")
+Strat Standard      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (0.446") | 3 mm (1/8")    | 22.6 mm (.89")
 
 
-Model               | E/e              |  Sites holes Ø    | Sites holes distance | Holes   | Bridge hole Ø  | Bridge hole distance
---------------------|------------------|-------------------|------------------|---------|----------------|-------------
-Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 4       | 3 mm (1/8")    | 21.6 mm (.85")
-Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 32.4 mm (1.267")
-Schaller 47X        | 51 mm - 55,5 mm  |  -                | -                | 3       | 3.18 mm (0.125")| -
+    Tele Vintage                        Tele Standard         
+    Bridge holes ..o...o...o...o..      Sites holes    ...o.o.o.o.o.o... 
+    Sites holes  ...o.o.o.o.o.o...      Bridge holes   ..o.....o.....o.. 
+
+Model               | E/e              |  Sites holes Ø    | Sites holes distance | Bridge hole Ø  | Bridge hole distance
+--------------------|------------------|-------------------|------------------|----------------|-------------
+Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 3 mm (1/8")    | 21.6 mm (.85")
+Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3 mm (1/8")    | 32.4 mm (1.267")
 
 
-    "Schaller Flat Mount"
-    ...o....o....o...
+    Schaller Flat Mount
+    Bridge holes ...o....o....o... 
 
-
-Model               | E/e              |  Sites holes Ø    | Sites holes distance | holes   | Bridge hole Ø  | Bridge holes distance
---------------------|------------------|-------------------|------------------|---------|----------------|-------------
-Schaller 47X        | 51 mm - 55,5 mm  |  -                | -                | 3       | 3.18mm (0.125")| -
+Model               | E/e              |  Bridge hole Ø    | Bridge holes distance | Dimensions (LxWxH)
+--------------------|------------------|-------------------|-----------------------|--- 
+Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 49 x 12(15) mm
 
 
 
 #### Tremolo Routing
 
-         Vintage                     Standard
-    ..o..o..o..o..o...o...      .....O.......O.....
+                  Vintage                  Standard
+    Bridge holes  ..o..o..o..o..o...o...   .....O.......O.....      
 
 Model                  | E/e               | Holes     | Holes distance   | Holes Ø
 -----------------------|-------------------|-----------|------------------|--------------
