@@ -24,8 +24,8 @@ It can help you to build a guitar with specific sound and playability characteri
 - [Guitar Bodies](#guitar-bodies)
     - [Bridge Routing](#bridge-routing)
         - [Flat Mount Hardtail Strat](#flat-mount-hardtail-strat)
-        - [Flat Mount Hardtail Tele](#flat-mount-hardtail-tele)
         - [Flat Mount Schaller](#flat-mount-schaller)
+        - [Tele Style](#tele-style)
         - [Tremolo Vintage](#tremolo-vintage)
         - [Tremolo Standard](#tremolo-standard)
         - [Tune-O-Matic Gibson Style](#tune-o-matic-gibson-style)
@@ -209,7 +209,17 @@ Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 
 Strat Vintage Narrow| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 3 mm (1/8")    | 21 mm (.827")
 Strat Standard      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (0.446") | 3 mm (1/8")    | 22.6 mm (.89")
 
-#### Flat Mount Hardtail Tele
+#### Flat Mount Schaller
+
+                 Schaller Flat Mount
+    Bridge holes ...o.....o.....o... 
+
+Model               | E/e              |  Bridge hole Ø    | Bridge holes distance | Dimensions (LxWxH)
+--------------------|------------------|-------------------|-----------------------|--- 
+Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 49 x 12(15) mm
+
+
+#### Tele Style
 
                  Tele Vintage                          Tele Standard         
     Bridge holes ..o...o...o...o..      Sites holes    ...o.o.o.o.o.o... 
@@ -220,14 +230,6 @@ Model               | E/e              |  Sites holes Ø    | Sites holes distan
 Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 3 mm (1/8")    | 21.6 mm (.85")
 Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3 mm (1/8")    | 32.4 mm (1.267")
 
-#### Flat Mount Schaller
-
-                 Schaller Flat Mount
-    Bridge holes ...o.....o.....o... 
-
-Model               | E/e              |  Bridge hole Ø    | Bridge holes distance | Dimensions (LxWxH)
---------------------|------------------|-------------------|-----------------------|--- 
-Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 49 x 12(15) mm
 
 #### Tremolo Vintage
 
