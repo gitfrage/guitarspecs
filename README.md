@@ -329,7 +329,7 @@ There are 3 common styles of knobs:
  - Screws for all parts above
  - Control plate (only for for standard tele)
  - String ferrules (String-thru Top or Bottom - if you use "string through body" instead of bridge)
- - String retainers. See [premierguitar.com](https://www.premierguitar.com/articles/24295-guitar-shop-101-happy-little-string-trees)  
+ - String retainers. [Happy Little String Trees](https://www.premierguitar.com/articles/24295-guitar-shop-101-happy-little-string-trees)  
  - Strap holders
 
 For each screw, the hole must be pre-drilled to the core diameter (not outer diameter)
