@@ -271,7 +271,7 @@ Instead Tailpiece - there may be "strings through the body" drillings.
 
 #### Other Rare Variants
 
- - Wrap-Around (the strings are installed through the front side of the bridge and wrapped around the bridge-tailpiece combo) 
+ - Wrap-Around (bridge-tailpiece combo - the strings are installed through the front side and wrapped around) 
  - Jazzmaster®
  - Jaguar®
  - Bigsby®
