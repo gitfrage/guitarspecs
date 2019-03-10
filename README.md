@@ -23,9 +23,12 @@ It can help you to build a guitar with specific sound and playability characteri
 
 - [Guitar Bodies](#guitar-bodies)
     - [Bridge Routing](#bridge-routing)
-        - [Flat Mount Hardtail Routing](#flat-mount-hardtail-routing)
-        - [Tremolo Routing](#tremolo-routing)
-        - [Tune-O-Matic Gibson Style Routing](#tune-o-matic-gibson-style-routing)
+        - [Flat Mount Hardtail Strat](#flat-mount-hardtail-strat)
+        - [Flat Mount Hardtail Tele](#flat-mount-hardtail-tele)
+        - [Flat Mount Schaller](#flat-mount-schaller)
+        - [Tremolo Vintage](#tremolo-vintage)
+        - [Tremolo Standard](#tremolo-standard)
+        - [Tune-O-Matic Gibson Style](#tune-o-matic-gibson-style)
         - [Other Rare Variants](#other-rare-variants)
     - [Pickup Routing](#pickup-routing)
 
@@ -217,7 +220,7 @@ Model               | E/e              |  Sites holes Ø    | Sites holes distan
 Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 3 mm (1/8")    | 21.6 mm (.85")
 Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3 mm (1/8")    | 32.4 mm (1.267")
 
-#### Flat Mount Hardtail Schaller
+#### Flat Mount Schaller
 
                  Schaller Flat Mount
     Bridge holes ...o.....o.....o... 
@@ -226,7 +229,7 @@ Model               | E/e              |  Bridge hole Ø    | Bridge holes dista
 --------------------|------------------|-------------------|-----------------------|--- 
 Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 49 x 12(15) mm
 
-#### Tremolo Routing Vintage
+#### Tremolo Vintage
 
                    Vintage                
     Bridge holes  ..o..o..o..o..o..o..     
@@ -236,7 +239,7 @@ Model                  | E/e                | Holes distance   | Holes Ø
 Mexico Strat           | 52,4 mm (2 1/16)   | 52,4 mm (2 1/16) | 3 mm (1/8")
 Vintage                | 56,36 mm (2 7/32") | 55,9 mm (2.2")   | 3 mm (1/8")
 
-#### Tremolo Routing Standard
+#### Tremolo Standard
 
                    Standard
     Bridge holes  ..o..........o..      
@@ -250,9 +253,9 @@ Schaller vintage       | 53,5 mm            | 74,3 mm          | 10 mm
 Wilkinson ("recessed") | 54 mm (2-1/8")     | 55,9 mm (2.2")   | 9,7 mm (.382")
 
 
-#### Tune-O-Matic Gibson Style Routing
+#### Tune-O-Matic Gibson Style
 
-                 Tune-O-Matic          TOM "strings through the body"
+                 Tune-O-Matic Recessed   Tune-O-Matic "Strings through the body"
     Tailpiece    ..........o......
     Tailpiece    ....o............     ....o.o.o.o.o.o...
     Bridge       ..o..........o...     ..o............o..
@@ -264,7 +267,7 @@ Tune-O-Matic| ca. 52 mm* | 74 mm (2.91")| approx 82 mm*     | 38 mm (1.49")     
 Instead Tailpiece - there may be "strings through the body" drillings.
 
 
-#### Other Rare Variants:
+#### Other Rare Variants
 
  - Jazzmaster®
  - Jaguar®
