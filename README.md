@@ -530,8 +530,8 @@ Swamp-Ash 	| neutral	| light  | T/B 		| bright, attractive
 Walnut 		| bright 	| medium | T/B/N 	| gray, attractive
 Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
 
-¹ Sound:  the diagram for effects on tone stands mainly for acoustic instruments and NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright despite the representations below.
-² Weight may vary for the same variety.
+¹ Sound:  the diagram for effects on tone stands mainly for acoustic instruments and NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright despite the representations below. 
+² Weight may vary for the same variety. 
 ³ Used for: T - Body Top | B - Body | N - neck | F - fretboards
 
 ![frudua.com](https://www.frudua.com/immagini/tonereferenceingtast.gif)
