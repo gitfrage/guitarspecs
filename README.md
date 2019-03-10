@@ -26,7 +26,7 @@ It can help you to build a guitar with specific sound and playability characteri
         - [Flat Mount Hardtail Routing](#flat-mount-hardtail-routing)
         - [Tremolo Routing](#tremolo-routing)
         - [Tune-O-Matic Gibson Style Routing](#tune-o-matic-gibson-style-routing)
-        - [Other Rare Variants](#othe-rare-variants)
+        - [Other Rare Variants](#other-rare-variants)
     - [Pickup Routing](#pickup-routing)
 
 - [Hardware](#hardware)
