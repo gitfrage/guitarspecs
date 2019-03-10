@@ -325,11 +325,12 @@ There are 3 common styles of knobs:
 
  - Jacks & jackplates
  - Neck plate (neck-to-body)
- - Pickguard or pickup mounting rings, control plate for tele)
+ - Pickguard or pickup mounting rings
  - Screws for all parts above
- - String Ferrules (if you use "string through body"  instead of bridge)
- - String Retainers
- - Strap Holders
+ - Control plate (only for for standard tele)
+ - String ferrules (String-thru Top or Bottom - if you use "string through body" instead of bridge)
+ - String retainers. See [premierguitar.com](https://www.premierguitar.com/articles/24295-guitar-shop-101-happy-little-string-trees)  
+ - Strap holders
 
 For each screw, the hole must be pre-drilled to the core diameter (not outer diameter)
 
