@@ -218,7 +218,7 @@ Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 
 
 
                  Schaller Flat Mount
-    Bridge holes ...o....o....o... 
+    Bridge holes ...o.....o.....o... 
 
 Model               | E/e              |  Bridge hole Ø    | Bridge holes distance | Dimensions (LxWxH)
 --------------------|------------------|-------------------|-----------------------|--- 
@@ -228,8 +228,8 @@ Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 4
 
 #### Tremolo Routing
 
-                  Vintage                  Standard
-    Bridge holes  ..o..o..o..o..o...o...   .....O.......O.....      
+                   Vintage                Standard
+    Bridge holes  ..o..o..o..o..o..o..   ..o..........o..      
 
 Model                  | E/e               | Holes     | Holes distance   | Holes Ø
 -----------------------|-------------------|-----------|------------------|--------------
