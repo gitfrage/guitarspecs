@@ -120,7 +120,7 @@ e/E analog 43 mm neck   | 44,5 mm (1-3/4")| 35 mm         | 7 mm           | 2 x
 Ideal solution          | 44,5 mm (1-3/4")| 36.5 mm       | 7.3 mm         | 2 x 4 mm
 edge analog 43 mm neck  | 44,5 mm (1-3/4")| 37.5 mm       | 7.5 mm         | 2 x 3.5 mm
 
-> [graphtech.com ](http://www.graphtech.com/products/brands/tusq/tusq-guitar-nuts) - sizing guide and pre-slotted nuts
+> [graphtech sizing guide and pre-slotted nuts(pdf)](http://www.graphtech.com/docs/default-document-library/quick-sizing-guide.pdf)
 
 
 ### Neck Heel Width and Mounting
