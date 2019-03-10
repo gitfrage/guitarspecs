@@ -26,6 +26,7 @@ It can help you to build a guitar with specific sound and playability characteri
         - [Flat Mount Hardtail Routing](#flat-mount-hardtail-routing)
         - [Tremolo Routing](#tremolo-routing)
         - [Tune-O-Matic Gibson Style Routing](#tune-o-matic-gibson-style-routing)
+        - [Other Rare Variants](#othe-rare-variants)
     - [Pickup Routing](#pickup-routing)
 
 - [Hardware](#hardware)
@@ -224,8 +225,6 @@ Model               | E/e              |  Bridge hole Ø    | Bridge holes dista
 --------------------|------------------|-------------------|-----------------------|--- 
 Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 49 x 12(15) mm
 
-
-
 #### Tremolo Routing
 
                    Vintage                Standard
@@ -256,7 +255,7 @@ Tune-O-Matic| ca. 52 mm* | 74 mm (2.91")| approx 82 mm*     | 38 mm (1.49")     
 Instead Tailpiece - there may be "strings through the body" drillings.
 
 
-Moreover, there are other rare variants:
+#### Other Rare Variants:
 
  - Jazzmaster®
  - Jaguar®
