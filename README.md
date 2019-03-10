@@ -304,7 +304,7 @@ Good manufacturers provide detailed product information on their pages:
 ![tuning machine head](./images/clip10_tuning-machine-head.jpg)
 
 Tuning Machines Options:
- - Configuration: 3L+3R, 6-in-Line
+ - Configuration: 3L+3R (Gibson style), 6-in-Line (Fender style), 4L/2R (Musicman style)
  - Diameters of bore holes for axis (see chapter [Tuner Holes](#tuner-holes))
  - Ratio - for 1x winding around the shaft head - 1x rotation necessary.
    Larger ratio (1:18 > 1:14) allows finer adjustments.
