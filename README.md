@@ -290,16 +290,6 @@ Jazzmaster              | - |
 ## Hardware
 ![hardware](./images/clip12_hardware.jpg)
 
-### Bridges
-![bridge](./images/clip11_bridge.jpg)
-
-Guitar bridge has large **influence on playability** (mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  [Bridge Routing](#bridge-routing) chapter above describes common bridge categories with string spacing specification.
-
-Bridge form and material have also some **influence on sound**.
-Good manufacturers provide detailed product information on their pages:
-
->  [ABM](https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html?language=en) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.
-
 ### Tuning Machines
 ![tuning machine head](./images/clip10_tuning-machine-head.jpg)
 
@@ -309,6 +299,16 @@ Tuning Machines Options:
  - Ratio - for 1x winding around the shaft head - 1x rotation necessary.
    Larger ratio (1:18 > 1:14) allows finer adjustments.
  - Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside
+
+### Bridges
+![bridge](./images/clip11_bridge.jpg)
+
+Guitar bridge has large **influence on playability** (mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  [Bridge Routing](#bridge-routing) chapter above describes common bridge categories with string spacing specification.
+
+Bridge form and material have also some **influence on sound**.
+Good manufacturers provide detailed product information on their pages:
+
+>  [ABM](https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html?language=en) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.
  
 ### Knob Styles
 ![knob](./images/clip13_knob.jpg)
