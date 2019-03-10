@@ -534,6 +534,11 @@ Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
 ² Weight may vary for the same variety.
 ³ Used for: T - Body Top | B - Body | N - neck | F - fretboards
 
-> [frudua.com](http://www.frudua.com/sound_of_electric_guitar_wood.htm)  - see on page bottom - graphical examples for body, neck and freatboard woods showing relationship between wood hardness, its density and tone.
+![frudua.com](https://www.frudua.com/immagini/tonereferenceingtast.gif)
+
+> [frudua.com](http://www.frudua.com/sound_of_electric_guitar_wood.htm) - see on page bottom - graphical examples for boda and neck woods showing relationship between wood hardness, its density and tone.
+
+
+
 
 
