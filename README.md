@@ -23,13 +23,12 @@ It can help you to build a guitar with specific sound and playability characteri
 
 - [Guitar Bodies](#guitar-bodies)
     - [Bridge Routing](#bridge-routing)
-        - [Flat Mount Hardtail Strat](#flat-mount-hardtail-strat)
-        - [Flat Mount Schaller](#flat-mount-schaller)
-        - [Flat Mount Tele Style](#flat-mount-tele-style)
-        - [Tremolo Vintage](#tremolo-vintage)
-        - [Tremolo Standard](#tremolo-standard)
-        - [Tune-O-Matic Gibson Style](#tune-o-matic-gibson-style)
-        - [Other Rare Variants](#other-rare-variants)
+    - [Flat Mount Strat Routing](#flat-mount-strat-routing)
+    - [Flat Mount Tele Routing](#flat-mount-tele-routing)
+    - [Flat Mount Schaller Routing](#flat-mount-schaller-routing)
+    - [Tremolo Routing](#tremolo-rouring)
+    - [Tune-O-Matic Gibson Style](#tune-o-matic-gibson-style)
+    - [Other Rare Variants](#other-rare-variants)
     - [Pickup Routing](#pickup-routing)
 
 - [Hardware](#hardware)
@@ -50,6 +49,7 @@ It can help you to build a guitar with specific sound and playability characteri
 - [Scale Length](#scale-length)
 
 - [Woods](#woods)
+
 
 ---------------
 
@@ -261,7 +261,7 @@ Schaller 2000          | 53,5 mm           | 2         | 56 mm            | 10 m
 Schaller vintage       | 53,5 mm           | 2         | 74,3 mm          | 10 mm
 Wilkinson ("recessed") | 54 mm (2-1/8")    | 2         | 55,9 mm (2.2")   | 9,7 mm (.382")
 
-
+> [callahamguitar.com](http://www.callahamguitars.com/technicalinfo.htm) - technical specifications of some coustom parts.
 
 ### Tune-O-Matic Gibson Style Routing
 
@@ -284,9 +284,6 @@ Instead Tailpiece - there may be "strings through the body" drillings.
  - Jaguar®
  - Bigsby®
  - Kahler®
-
-> [callahamguitar.com](http://www.callahamguitars.com/technicalinfo.htm) - technical specifications of some coustom parts.
-
   
 ### Pickup Routing
 
