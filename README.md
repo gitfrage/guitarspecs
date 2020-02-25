@@ -1,4 +1,3 @@
-  
 # Electric Guitar Specifications
 
 
@@ -26,9 +25,9 @@ It can help you to build a guitar with specific sound and playability characteri
     - [Flat Mount Strat Routing](#flat-mount-strat-routing)
     - [Flat Mount Tele Routing](#flat-mount-tele-routing)
     - [Flat Mount Schaller Routing](#flat-mount-schaller-routing)
-    - [Tremolo Routing](#tremolo-rouring)
-    - [Tune-O-Matic Gibson Style](#tune-o-matic-gibson-style)
-    - [Other Rare Variants](#other-rare-variants)
+    - [Tremolo Routing](#tremolo-routing)
+    - [Tune-O-Matic Gibson Style Routing](#tune-o-matic-gibson-style-routing)
+    - [Other Rare Bridge Variants](#other-rare-bridge-variants)
     - [Pickup Routing](#pickup-routing)
 
 - [Hardware](#hardware)
@@ -277,7 +276,7 @@ Tune-O-Matic| ca. 52 mm* | 74 mm (2.91")| approx 82 mm*     | 38 mm (1.49")     
 Instead Tailpiece - there may be "strings through the body" drillings.
 
 
-#### Other Rare Variants
+### Other Rare Bridge Variants
 
  - Wrap-Around (bridge-tailpiece combo - the strings are installed through the front side and wrapped around) 
  - Jazzmaster®
