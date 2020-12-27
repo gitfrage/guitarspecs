@@ -488,11 +488,11 @@ There are 3 common styles of knobs:
 ### Electronics Wiring Schemas
 ![electronics wiring schemas](./images/clip4_wiring.jpg)
 
->- [Solder yourself- seymourduncan](http://www.seymourduncan.com/wiring-diagrams)
+>- [Solder yourself - seymourduncan](http://www.seymourduncan.com/wiring-diagrams)
 >- [Solder yourself - dimarzio](http://www.dimarzio.com/support/wiring-diagrams)
 >- [Solder yourself - amplifiedparts](https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams)
 >- [Solderless - EMG](https://www.emgpickups.com/parts/wiring-kits.html)
->- [Prewired Classic Harness - mojotone](https://www.mojotone.com/guitar-parts/Prewired-Kits#/)
+>- [Prewired Classic - mojotone](https://www.mojotone.com/guitar-parts/Prewired-Kits#/)
 >- [Prewired Modern - toneshapers](https://toneshapers.com/wiring-products.html#cat=nextgen)
 
 ### Active Pickups Electronics
