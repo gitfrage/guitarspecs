@@ -41,6 +41,7 @@ It can help you to build a guitar with specific sound and playability characteri
   - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values)
   - [Volume and Tone Potentiometer Options](#volume-and-tone-potentiometer-options)
   - [Potentiometer Knob Styles](#potentiometer-knob-styles)
+  - [Electronics Wiring Schemas](#electronics-wiring-schemas)
   - [Active Pickups Electronic](#active-pickups-electronics)
 
 - [Strings](#strings)
@@ -445,15 +446,6 @@ Example: "Seriell/Parallel und Coil Split at same time" are possible with 4 Push
 > [open.guitars (german)](https://open-guitars.de/egitarrenbau/pu-anschlussarten/) - Hambucker Conductor/Coils switching options.
 
 
-### Electronics Wiring Schemas
-![electronics wiring schemas](./images/clip4_wiring.jpg)
-
-More wiring schemas from:
-
->- [seymourduncan](http://www.seymourduncan.com/wiring-diagrams)
->- [dimarzio](http://www.dimarzio.com/support/wiring-diagrams)
->- [amplifiedparts](https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams)
-
 ### Potentiometer and Capacitor Values
 ![cap values](./images/clip16_cap.jpg)
 
@@ -492,6 +484,27 @@ There are 3 common styles of knobs:
  - domed
 
 > [philadelphialuthiertools.com](http://blog.philadelphialuthiertools.com/2013/05/16/choosing-the-correct-knob-for-your-guitar-or-bass/)  - Choosing the correct knob for your guitar or bass.
+
+### Electronics Wiring Schemas
+![electronics wiring schemas](./images/clip4_wiring.jpg)
+
+Solder yourself - the most flexible, but most complex solution:
+
+>- [seymourduncan](http://www.seymourduncan.com/wiring-diagrams)
+>- [dimarzio](http://www.dimarzio.com/support/wiring-diagrams)
+>- [amplifiedparts](https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams)
+
+Solderless:
+
+>- [EMG](https://www.emgpickups.com/parts/wiring-kits.html)
+
+Prewired Classic Harness:
+
+>- [mojotone](https://www.mojotone.com/guitar-parts/Prewired-Kits#/)
+
+Prewired Modern:
+
+>- [toneshapers](https://toneshapers.com/wiring-products.html#cat=nextgen)
 
 ### Active Pickups Electronics
 ![active pickups](./images/clip7_active-pickup.jpg)
